@@ -124,7 +124,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## WebView
 
-* [JsBridge](https://github.com/lzyzsd/JsBridge) ⭐ 9,908 | 🐛 145 | 🌐 Java | 📅 2025-06-13 ★3073 - Android的Java和JavaScript桥接
+* [JsBridge](https://github.com/lzyzsd/JsBridge) ⭐ 9,907 | 🐛 145 | 🌐 Java | 📅 2025-06-13 ★3073 - Android的Java和JavaScript桥接
 * [AgentWeb](https://github.com/Justson/AgentWeb) ⭐ 9,424 | 🐛 96 | 🌐 Java | 📅 2026-05-11 ★455 - 一个高度封装的 WebView
 * [DSBridge-Android](https://github.com/wendux/DSBridge-Android) ⭐ 3,880 | 🐛 105 | 🌐 Java | 📅 2020-09-11 ★162 - 目前地球上最好的IOS及Android javascript bridge
 * [AndroidChromium](https://github.com/JackyAndroid/AndroidChromium) ⭐ 3,138 | 🐛 18 | 🌐 Java | 📅 2020-09-02 ★1532 - 谷歌浏览器安卓版源码项目
