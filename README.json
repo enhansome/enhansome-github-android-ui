@@ -3561,7 +3561,7 @@
             "last_commit": "2025-06-05T07:06:39Z",
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38192
+            "stars": 38193
           }
         },
         {
@@ -6510,7 +6510,7 @@
             "last_commit": "2026-02-05T18:44:46Z",
             "owner": "skydoves",
             "repo": "ColorPickerView",
-            "stars": 1709
+            "stars": 1710
           }
         },
         {
@@ -9477,7 +9477,7 @@
             "archived": false,
             "id": 36814724,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T17:13:09Z",
+            "last_commit": "2026-08-24T07:57:03Z",
             "owner": "AppIntro",
             "repo": "AppIntro",
             "stars": 10570
@@ -9510,7 +9510,7 @@
             "last_commit": "2023-05-28T16:36:55Z",
             "owner": "binIoter",
             "repo": "GuideView",
-            "stars": 3945
+            "stars": 3946
           }
         },
         {
@@ -9726,7 +9726,7 @@
             "last_commit": "2026-08-20T17:51:21Z",
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35026
+            "stars": 35025
           }
         },
         {
@@ -9768,7 +9768,7 @@
             "archived": false,
             "id": 31533997,
             "language": "Kotlin",
-            "last_commit": "2026-08-20T21:14:43Z",
+            "last_commit": "2026-08-24T11:07:54Z",
             "owner": "facebook",
             "repo": "fresco",
             "stars": 17159
@@ -9801,7 +9801,7 @@
             "last_commit": "2024-05-03T11:20:49Z",
             "owner": "hdodenhof",
             "repo": "CircleImageView",
-            "stars": 14487
+            "stars": 14488
           }
         },
         {
@@ -15996,7 +15996,7 @@
             "archived": false,
             "id": 19025014,
             "language": "Kotlin",
-            "last_commit": "2026-08-23T23:00:56Z",
+            "last_commit": "2026-08-24T12:17:26Z",
             "owner": "mikepenz",
             "repo": "AboutLibraries",
             "stars": 4415
@@ -19031,7 +19031,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:24:05.295Z",
+    "last_updated": "2026-08-24T13:57:18.737Z",
     "original_repository": "opendigg/awesome-github-android-ui",
     "original_repository_id": 89932094,
     "original_repository_sha": "6096492c5002a69c119b9b46f2cb45411dcf02d0",
