@@ -12,7 +12,7 @@
             "archived": false,
             "id": 30120110,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T21:06:47Z",
+            "last_commit": "2026-08-24T21:06:25Z",
             "owner": "mikepenz",
             "repo": "MaterialDrawer",
             "stars": 11646
@@ -2418,7 +2418,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53807
+            "stars": 53812
           }
         },
         {
@@ -3576,7 +3576,7 @@
             "last_commit": "2021-06-01T03:12:09Z",
             "owner": "lecho",
             "repo": "hellocharts-android",
-            "stars": 7570
+            "stars": 7571
           }
         },
         {
@@ -4269,7 +4269,7 @@
             "last_commit": "2023-02-06T02:57:13Z",
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19553
+            "stars": 19554
           }
         },
         {
@@ -5268,7 +5268,7 @@
             "last_commit": "2026-02-27T06:53:21Z",
             "owner": "cymcsg",
             "repo": "UltimateRecyclerView",
-            "stars": 7170
+            "stars": 7169
           }
         },
         {
@@ -8034,7 +8034,7 @@
             "last_commit": "2025-12-04T03:09:32Z",
             "owner": "huanghaibin-dev",
             "repo": "CalendarView",
-            "stars": 9394
+            "stars": 9395
           }
         },
         {
@@ -9477,7 +9477,7 @@
             "archived": false,
             "id": 36814724,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T07:57:03Z",
+            "last_commit": "2026-08-24T22:00:24Z",
             "owner": "AppIntro",
             "repo": "AppIntro",
             "stars": 10570
@@ -9723,7 +9723,7 @@
             "archived": false,
             "id": 11267509,
             "language": "Java",
-            "last_commit": "2026-08-20T17:51:21Z",
+            "last_commit": "2026-08-25T00:43:16Z",
             "owner": "bumptech",
             "repo": "glide",
             "stars": 35025
@@ -9768,7 +9768,7 @@
             "archived": false,
             "id": 31533997,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T11:07:54Z",
+            "last_commit": "2026-08-24T20:02:56Z",
             "owner": "facebook",
             "repo": "fresco",
             "stars": 17159
@@ -9816,7 +9816,7 @@
             "last_commit": "2024-05-11T03:14:44Z",
             "owner": "LuckSiege",
             "repo": "PictureSelector",
-            "stars": 13590
+            "stars": 13591
           }
         },
         {
@@ -10131,7 +10131,7 @@
             "last_commit": "2025-08-18T02:18:01Z",
             "owner": "siwangqishiq",
             "repo": "ImageEditor-Android",
-            "stars": 2270
+            "stars": 2271
           }
         },
         {
@@ -10281,7 +10281,7 @@
             "last_commit": "2022-07-27T04:57:26Z",
             "owner": "TangXiaoLv",
             "repo": "TelegramGallery",
-            "stars": 1330
+            "stars": 1331
           }
         },
         {
@@ -13755,7 +13755,7 @@
             "last_commit": "2026-08-20T20:39:22Z",
             "owner": "TeamAmaze",
             "repo": "AmazeFileManager",
-            "stars": 6347
+            "stars": 6350
           }
         },
         {
@@ -16206,7 +16206,7 @@
             "last_commit": "2019-07-11T20:43:07Z",
             "owner": "Clans",
             "repo": "FloatingActionButton",
-            "stars": 5177
+            "stars": 5176
           }
         },
         {
@@ -16737,7 +16737,7 @@
             "last_commit": "2020-06-13T00:51:58Z",
             "owner": "rockerhieu",
             "repo": "emojicon",
-            "stars": 3594
+            "stars": 3595
           }
         },
         {
@@ -19031,7 +19031,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:57:18.737Z",
+    "last_updated": "2026-08-25T05:17:15.374Z",
     "original_repository": "opendigg/awesome-github-android-ui",
     "original_repository_id": 89932094,
     "original_repository_sha": "6096492c5002a69c119b9b46f2cb45411dcf02d0",
