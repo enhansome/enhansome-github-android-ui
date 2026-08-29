@@ -3021,27 +3021,6 @@
         },
         {
           "node_type": "item",
-          "title": "AdhesiveLoadingView",
-          "description": "★262 - 具有粘性的滑动小球loading",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "具有粘性的滑动小球，跌落反弹形成loading的效果",
-            "homepage": null,
-            "id": 49241224,
-            "language": "Java",
-            "license": "Apache-2.0",
-            "last_commit": "2016-01-28T16:37:53Z",
-            "open_issues": 1,
-            "owner": "yxping",
-            "repo": "AdhesiveLoadingView",
-            "stars": 262,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:55:34.221Z"
-        },
-        {
-          "node_type": "item",
           "title": "BGAProgressBar-Android",
           "description": "★31 - 安卓进度条",
           "children": [],
@@ -3056,6 +3035,27 @@
             "open_issues": 3,
             "owner": "bingoogolapple",
             "repo": "BGAProgressBar-Android",
+            "stars": 263,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:55:34.221Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AdhesiveLoadingView",
+          "description": "★262 - 具有粘性的滑动小球loading",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "具有粘性的滑动小球，跌落反弹形成loading的效果",
+            "homepage": null,
+            "id": 49241224,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2016-01-28T16:37:53Z",
+            "open_issues": 1,
+            "owner": "yxping",
+            "repo": "AdhesiveLoadingView",
             "stars": 262,
             "topics": []
           },
@@ -3968,7 +3968,7 @@
             "open_issues": 96,
             "owner": "bingoogolapple",
             "repo": "BGARefreshLayout-Android",
-            "stars": 4284,
+            "stars": 4285,
             "topics": [
               "refreshlayout"
             ]
@@ -9126,7 +9126,7 @@
             "open_issues": 11,
             "owner": "bingoogolapple",
             "repo": "BGABaseAdapter-Android",
-            "stars": 651,
+            "stars": 652,
             "topics": [
               "androidx",
               "baseadapter",
@@ -15983,7 +15983,7 @@
             "open_issues": 90,
             "owner": "bingoogolapple",
             "repo": "BGAPhotoPicker-Android",
-            "stars": 2242,
+            "stars": 2243,
             "topics": [
               "androidx",
               "photo-picker",
@@ -17487,7 +17487,7 @@
             "open_issues": 29,
             "owner": "bingoogolapple",
             "repo": "BGABadgeView-Android",
-            "stars": 2637,
+            "stars": 2638,
             "topics": [
               "badge",
               "badgeview"
@@ -21203,7 +21203,7 @@
             "open_issues": 54,
             "owner": "bingoogolapple",
             "repo": "BGABanner-Android",
-            "stars": 4156,
+            "stars": 4157,
             "topics": [
               "androidx",
               "banner",
@@ -21584,7 +21584,7 @@
             "open_issues": 637,
             "owner": "TeamAmaze",
             "repo": "AmazeFileManager",
-            "stars": 6357,
+            "stars": 6359,
             "topics": [
               "android",
               "fdroid",
@@ -23774,7 +23774,7 @@
             "open_issues": 9,
             "owner": "MasayukiSuda",
             "repo": "BubbleLayout",
-            "stars": 969,
+            "stars": 968,
             "topics": [
               "android",
               "bubblelayout"
@@ -23830,7 +23830,7 @@
             "open_issues": 66,
             "owner": "bingoogolapple",
             "repo": "BGASwipeBackLayout-Android",
-            "stars": 2302,
+            "stars": 2303,
             "topics": [
               "androidx",
               "swipeback",
@@ -25846,7 +25846,7 @@
             "open_issues": 9,
             "owner": "bingoogolapple",
             "repo": "BGAUpdate-Android",
-            "stars": 194,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -29795,7 +29795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:54.755Z",
+    "last_updated": "2026-08-29T11:21:15.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "安卓UI相关开源项目库汇总 ",
