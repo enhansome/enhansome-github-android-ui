@@ -549,8 +549,8 @@
             "id": 31365325,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-11T04:32:18Z",
-            "open_issues": 145,
+            "last_commit": "2026-09-12T04:06:55Z",
+            "open_issues": 133,
             "owner": "happydog-intj",
             "repo": "JsBridge",
             "stars": 9911,
@@ -2008,8 +2008,8 @@
             "id": 25979092,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-11T04:05:10Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-11T11:14:21Z",
+            "open_issues": 71,
             "owner": "happydog-intj",
             "repo": "CircleProgress",
             "stars": 3795,
@@ -3766,7 +3766,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53919,
+            "stars": 53931,
             "topics": [
               "android",
               "icons",
@@ -3795,7 +3795,7 @@
             "open_issues": 8,
             "owner": "mikepenz",
             "repo": "Android-Iconics",
-            "stars": 5274,
+            "stars": 5275,
             "topics": [
               "android",
               "android-compose",
@@ -5176,7 +5176,7 @@
             "open_issues": 4,
             "owner": "Pixplicity",
             "repo": "MultiViewPager",
-            "stars": 898,
+            "stars": 899,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -5576,7 +5576,7 @@
             "open_issues": 2191,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38181,
+            "stars": 38178,
             "topics": [
               "android",
               "chart",
@@ -8017,7 +8017,7 @@
             "open_issues": 24,
             "owner": "nisrulz",
             "repo": "sensey",
-            "stars": 2660,
+            "stars": 2659,
             "topics": [
               "android",
               "android-library",
@@ -8560,7 +8560,7 @@
             "open_issues": 15,
             "owner": "huazhiyuan2008",
             "repo": "RecyclerViewCardGallery",
-            "stars": 2618,
+            "stars": 2617,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -8742,7 +8742,7 @@
             "open_issues": 17,
             "owner": "timusus",
             "repo": "RecyclerView-FastScroll",
-            "stars": 1400,
+            "stars": 1401,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -9801,7 +9801,7 @@
             "open_issues": 15,
             "owner": "huazhiyuan2008",
             "repo": "RecyclerViewCardGallery",
-            "stars": 2618,
+            "stars": 2617,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -10505,7 +10505,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18297,
+            "stars": 18298,
             "topics": [
               "android",
               "android-library",
@@ -11616,7 +11616,7 @@
             "open_issues": 436,
             "owner": "Bigkoo",
             "repo": "Android-PickerView",
-            "stars": 13433,
+            "stars": 13432,
             "topics": [
               "android-pickerview",
               "datepicker",
@@ -12580,7 +12580,7 @@
             "open_issues": 459,
             "owner": "huanghaibin-dev",
             "repo": "CalendarView",
-            "stars": 9400,
+            "stars": 9399,
             "topics": [
               "android",
               "calendar",
@@ -13467,7 +13467,7 @@
             "open_issues": 103,
             "owner": "ximsfei",
             "repo": "Android-skin-support",
-            "stars": 6508,
+            "stars": 6509,
             "topics": [
               "android",
               "androidx",
@@ -14867,8 +14867,8 @@
             "id": 36814724,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T17:34:36Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-11T12:46:27Z",
+            "open_issues": 41,
             "owner": "AppIntro",
             "repo": "AppIntro",
             "stars": 10569,
@@ -15277,7 +15277,7 @@
             "open_issues": 667,
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35025,
+            "stars": 35026,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -15319,7 +15319,7 @@
             "open_issues": 212,
             "owner": "square",
             "repo": "picasso",
-            "stars": 18793,
+            "stars": 18792,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -15336,7 +15336,7 @@
             "id": 31533997,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-09-10T21:36:28Z",
+            "last_commit": "2026-09-11T22:28:06Z",
             "open_issues": 261,
             "owner": "facebook",
             "repo": "fresco",
@@ -15443,7 +15443,7 @@
             "open_issues": 464,
             "owner": "zhihu",
             "repo": "Matisse",
-            "stars": 12508,
+            "stars": 12507,
             "topics": [
               "android",
               "android-image-picker",
@@ -15467,7 +15467,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2025-08-07T16:51:43Z",
-            "open_issues": 347,
+            "open_issues": 348,
             "owner": "Yalantis",
             "repo": "uCrop",
             "stars": 12082,
@@ -21155,7 +21155,7 @@
             "open_issues": 48,
             "owner": "youth5201314",
             "repo": "banner",
-            "stars": 13017,
+            "stars": 13018,
             "topics": [
               "androidx",
               "banner",
@@ -21581,7 +21581,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-09-03T15:16:24Z",
-            "open_issues": 639,
+            "open_issues": 640,
             "owner": "TeamAmaze",
             "repo": "AmazeFileManager",
             "stars": 6379,
@@ -22004,7 +22004,7 @@
             "open_issues": 10,
             "owner": "ZieIony",
             "repo": "Carbon",
-            "stars": 3027,
+            "stars": 3028,
             "topics": [
               "android",
               "android-library",
@@ -23513,7 +23513,7 @@
             "open_issues": 57,
             "owner": "KeepSafe",
             "repo": "TapTargetView",
-            "stars": 5461,
+            "stars": 5462,
             "topics": [
               "android",
               "feature-discovery",
@@ -23830,7 +23830,7 @@
             "open_issues": 66,
             "owner": "bingoogolapple",
             "repo": "BGASwipeBackLayout-Android",
-            "stars": 2303,
+            "stars": 2302,
             "topics": [
               "androidx",
               "swipeback",
@@ -23924,7 +23924,7 @@
             "open_issues": 6,
             "owner": "oubowu",
             "repo": "SlideBack",
-            "stars": 802,
+            "stars": 801,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -27391,10 +27391,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T00:05:33Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "facebook",
             "repo": "litho",
-            "stars": 7779,
+            "stars": 7782,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -29795,7 +29795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:09:03.595Z",
+    "last_updated": "2026-09-12T08:50:28.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "安卓UI相关开源项目库汇总 ",
