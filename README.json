@@ -553,7 +553,7 @@
             "open_issues": 133,
             "owner": "happydog-intj",
             "repo": "JsBridge",
-            "stars": 9908,
+            "stars": 9909,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -629,7 +629,7 @@
             "open_issues": 18,
             "owner": "JackyAndroid",
             "repo": "AndroidChromium",
-            "stars": 3142,
+            "stars": 3143,
             "topics": [
               "android",
               "chrome",
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "czy1121",
             "repo": "roundbutton",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "roundbutton"
             ]
@@ -3762,11 +3762,11 @@
             "id": 24953448,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T02:15:08Z",
+            "last_commit": "2026-09-25T02:19:04Z",
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54025,
+            "stars": 54029,
             "topics": [
               "android",
               "icons",
@@ -5576,7 +5576,7 @@
             "open_issues": 2066,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38171,
+            "stars": 38172,
             "topics": [
               "android",
               "chart",
@@ -13746,7 +13746,7 @@
             "open_issues": 49,
             "owner": "davemorrissey",
             "repo": "subsampling-scale-image-view",
-            "stars": 8008,
+            "stars": 8009,
             "topics": [
               "android",
               "android-lib",
@@ -14867,7 +14867,7 @@
             "id": 36814724,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T05:46:17Z",
+            "last_commit": "2026-09-25T01:50:37Z",
             "open_issues": 41,
             "owner": "AppIntro",
             "repo": "AppIntro",
@@ -15337,7 +15337,7 @@
             "language": "Kotlin",
             "license": "MIT",
             "last_commit": "2026-09-24T05:55:40Z",
-            "open_issues": 258,
+            "open_issues": 260,
             "owner": "facebook",
             "repo": "fresco",
             "stars": 17156,
@@ -15792,7 +15792,7 @@
             "open_issues": 30,
             "owner": "Hitomis",
             "repo": "transferee",
-            "stars": 2715,
+            "stars": 2716,
             "topics": [
               "android",
               "draggable",
@@ -21580,11 +21580,11 @@
             "id": 21833183,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T22:19:45Z",
-            "open_issues": 637,
+            "last_commit": "2026-09-25T07:18:28Z",
+            "open_issues": 638,
             "owner": "TeamAmaze",
             "repo": "AmazeFileManager",
-            "stars": 6405,
+            "stars": 6407,
             "topics": [
               "android",
               "fdroid",
@@ -21932,7 +21932,7 @@
             "open_issues": 254,
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8911,
+            "stars": 8912,
             "topics": [
               "android",
               "material-design"
@@ -23492,7 +23492,7 @@
             "open_issues": 743,
             "owner": "DImuthuUpe",
             "repo": "AndroidPdfViewer",
-            "stars": 8471,
+            "stars": 8472,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -25062,7 +25062,7 @@
             "open_issues": 5,
             "owner": "mikepenz",
             "repo": "AboutLibraries",
-            "stars": 4447,
+            "stars": 4450,
             "topics": [
               "aboutlibraries",
               "android",
@@ -29795,7 +29795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T09:32:22.180Z",
+    "last_updated": "2026-09-25T09:47:51.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "安卓UI相关开源项目库汇总 ",
@@ -29807,7 +29807,7 @@
       "open_issues": 16,
       "owner": "opendigg",
       "repo": "awesome-github-android-ui",
-      "stars": 5771,
+      "stars": 5772,
       "topics": [
         "android-library",
         "android-ui",
