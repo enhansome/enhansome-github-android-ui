@@ -281,7 +281,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 图标
 
-* [Material design icons](https://github.com/google/material-design-icons) ⭐ 54,063 | 🐛 427 | 📅 2026-10-02 ★30013 - 谷歌官方图标
+* [Material design icons](https://github.com/google/material-design-icons) ⭐ 54,064 | 🐛 427 | 📅 2026-10-02 ★30013 - 谷歌官方图标
 * [Android-Iconics](https://github.com/mikepenz/Android-Iconics) ⭐ 5,272 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-20 ★2825 - 在应用中使用图标字体或矢量
 * [android-iconify](https://github.com/JoanZapata/android-iconify) ⭐ 3,916 | 🐛 67 | 🌐 Java | 📅 2022-11-17 ★2966 - 多个图标供应商的图标整合
 * [material-icon-lib](https://github.com/code-mc/material-icon-lib) ⭐ 2,252 | 🐛 12 | 🌐 Java | 📅 2019-12-15 ★1947 - 1500个MD风格矢量图标
@@ -592,7 +592,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## Color
 
-* [ColorPickerView](https://github.com/skydoves/ColorPickerView) ⭐ 1,715 | 🐛 7 | 🌐 Java | 📅 2026-09-29 ★290 - 从图片中获取颜色
+* [ColorPickerView](https://github.com/skydoves/ColorPickerView) ⭐ 1,716 | 🐛 7 | 🌐 Java | 📅 2026-09-29 ★290 - 从图片中获取颜色
 * [InstagramLikeColorTransitionAndroid](https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid) ⭐ 591 | 🐛 2 | 🌐 Java | 📅 2020-05-16 ★367 - 创建类似渐变颜色过渡的Instagram
 * [MaterialDesignColor](https://github.com/zzhoujay/MaterialDesignColor) ⭐ 345 | 🐛 0 | 🌐 Java | 📅 2016-03-09 ★281 - 谷歌官方MaterialDesign颜色代码
 * [colorpreference](https://github.com/kizitonwose/colorpreference) ⭐ 310 | 🐛 1 | 🌐 Java | 📅 2019-02-21 ★209 - 建立优秀的颜色选择器
@@ -626,7 +626,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout) ⭐ 1,747 | 🐛 39 | 🌐 Java | 📅 2017-09-09 ★1434 - 视图布局
 * [ExpandableLayout](https://github.com/AAkira/ExpandableLayout) ⭐ 1,653 | 🐛 66 | 🌐 Java | 📅 2017-12-15 ★1041 - 带有各种动画的扩展布局
 * [ArcLayout](https://github.com/florent37/ArcLayout) ⚠️ Archived ★864 - 使用ArcLayout探索新的MD风格的样式和方法
-* [TextLayoutBuilder](https://github.com/facebookincubator/TextLayoutBuilder) ⭐ 1,471 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-02 ★1124 - Facebook出品的在Android中轻松实现文字布局
+* [TextLayoutBuilder](https://github.com/facebookincubator/TextLayoutBuilder) ⭐ 1,471 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-03 ★1124 - Facebook出品的在Android中轻松实现文字布局
 * [FlexLayout](https://github.com/mmin18/FlexLayout) ⭐ 1,412 | 🐛 3 | 🌐 Java | 📅 2017-10-28 ★1377 - 强大的Android布局视图
 * [FlowTag](https://github.com/hanhailong/FlowTag) ⭐ 889 | 🐛 21 | 🌐 Java | 📅 2017-06-22 ★579 - Android流式布局
 * [HiveLayoutManager](https://github.com/Chacojack/HiveLayoutManager) ⭐ 620 | 🐛 5 | 🌐 Java | 📅 2016-11-25 ★373 - 蜂巢布局管理器
@@ -1041,7 +1041,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [FadingTextView](https://github.com/rosenpin/FadingTextView) ⭐ 1,718 | 🐛 2 | 🌐 Kotlin | 📅 2023-12-29 ★866 - 自动改变其内容的TextView
 * [Android-TextView-LinkBuilder](https://github.com/klinker24/Android-TextView-LinkBuilder) ⭐ 1,575 | 🐛 11 | 🌐 Kotlin | 📅 2020-01-20 ★1165 - 创建可点击的链接
 * [RotatingText](https://github.com/sdsmdg/RotatingText) ⭐ 1,573 | 🐛 15 | 🌐 Java | 📅 2020-07-11 ★845 - 周期性文本更新库
-* [TextLayoutBuilder](https://github.com/facebookincubator/TextLayoutBuilder) ⭐ 1,471 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-02 ★1124 - Facebook出品的在Android中轻松实现文字布局
+* [TextLayoutBuilder](https://github.com/facebookincubator/TextLayoutBuilder) ⭐ 1,471 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-03 ★1124 - Facebook出品的在Android中轻松实现文字布局
 * [TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete) ⭐ 1,309 | 🐛 31 | 🌐 Kotlin | 📅 2024-03-18 ★999 - 安卓Gmail风格的MultiAutoCompleteTextView
 * [AutoLinkTextView](https://github.com/armcha/AutoLinkTextView) ⭐ 1,106 | 🐛 23 | 🌐 Java | 📅 2019-10-09 ★835 - 自动检测并处理点击事件
 * [android-justifiedtextview](https://github.com/ufo22940268/android-justifiedtextview) ⭐ 948 | 🐛 30 | 🌐 Java | 📅 2024-12-03 ★580 - 基于原生TextView实现合理的textview

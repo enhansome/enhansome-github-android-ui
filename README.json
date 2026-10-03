@@ -3766,7 +3766,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54063,
+            "stars": 54064,
             "topics": [
               "android",
               "icons",
@@ -10167,7 +10167,7 @@
             "open_issues": 7,
             "owner": "skydoves",
             "repo": "ColorPickerView",
-            "stars": 1715,
+            "stars": 1716,
             "topics": [
               "android",
               "android-library",
@@ -10800,7 +10800,7 @@
             "id": 72580689,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-02T15:30:56Z",
+            "last_commit": "2026-10-03T05:32:27Z",
             "open_issues": 1,
             "owner": "facebook",
             "repo": "TextLayoutBuilder",
@@ -19198,7 +19198,7 @@
             "id": 72580689,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-02T15:30:56Z",
+            "last_commit": "2026-10-03T05:32:27Z",
             "open_issues": 1,
             "owner": "facebook",
             "repo": "TextLayoutBuilder",
@@ -29795,7 +29795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:46:55.567Z",
+    "last_updated": "2026-10-03T10:02:59.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "安卓UI相关开源项目库汇总 ",
