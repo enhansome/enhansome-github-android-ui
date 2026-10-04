@@ -629,7 +629,7 @@
             "open_issues": 18,
             "owner": "JackyAndroid",
             "repo": "AndroidChromium",
-            "stars": 3144,
+            "stars": 3145,
             "topics": [
               "android",
               "chrome",
@@ -3763,10 +3763,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T02:22:12Z",
-            "open_issues": 427,
+            "open_issues": 428,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54064,
+            "stars": 54070,
             "topics": [
               "android",
               "icons",
@@ -5982,7 +5982,7 @@
             "open_issues": 19,
             "owner": "levey",
             "repo": "AwesomeMenu",
-            "stars": 4957,
+            "stars": 4956,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -6691,10 +6691,10 @@
             "description": "Advanced dialog solution for android",
             "homepage": null,
             "id": 27913753,
-            "language": "Java",
+            "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:55:33Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-03T22:27:03Z",
+            "open_issues": 54,
             "owner": "orhanobut",
             "repo": "dialogplus",
             "stars": 4956,
@@ -8487,7 +8487,7 @@
             "open_issues": 69,
             "owner": "lisawray",
             "repo": "groupie",
-            "stars": 3670,
+            "stars": 3671,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -11121,7 +11121,7 @@
             "open_issues": 38,
             "owner": "CameraKit",
             "repo": "blurkit-android",
-            "stars": 3758,
+            "stars": 3759,
             "topics": [
               "android",
               "android-library",
@@ -11644,7 +11644,7 @@
             "open_issues": 195,
             "owner": "gzu-liyujiang",
             "repo": "AndroidPicker",
-            "stars": 6787,
+            "stars": 6788,
             "topics": [
               "address",
               "addresspicker",
@@ -12580,7 +12580,7 @@
             "open_issues": 459,
             "owner": "huanghaibin-dev",
             "repo": "CalendarView",
-            "stars": 9404,
+            "stars": 9405,
             "topics": [
               "android",
               "calendar",
@@ -14010,7 +14010,7 @@
             "open_issues": 9,
             "owner": "developer-shivam",
             "repo": "Crescento",
-            "stars": 1264,
+            "stars": 1263,
             "topics": [
               "appcompat-support",
               "curve",
@@ -14732,7 +14732,7 @@
             "open_issues": 8,
             "owner": "sunfusheng",
             "repo": "StickyHeaderListView",
-            "stars": 2814,
+            "stars": 2813,
             "topics": [
               "filterview",
               "header",
@@ -14966,7 +14966,7 @@
             "open_issues": 57,
             "owner": "TangoAgency",
             "repo": "material-intro-screen",
-            "stars": 2689,
+            "stars": 2688,
             "topics": [
               "android",
               "android-library",
@@ -15470,7 +15470,7 @@
             "open_issues": 350,
             "owner": "Yalantis",
             "repo": "uCrop",
-            "stars": 12075,
+            "stars": 12074,
             "topics": [
               "android",
               "animation",
@@ -15558,7 +15558,7 @@
             "open_issues": 364,
             "owner": "ArthurHub",
             "repo": "Android-Image-Cropper",
-            "stars": 6410,
+            "stars": 6411,
             "topics": [
               "android",
               "android-image-cropper",
@@ -18935,7 +18935,7 @@
             "open_issues": 60,
             "owner": "grantland",
             "repo": "android-autofittextview",
-            "stars": 4247,
+            "stars": 4246,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -20735,7 +20735,7 @@
             "open_issues": 3,
             "owner": "fanrunqi",
             "repo": "MaterialLogin",
-            "stars": 1903,
+            "stars": 1901,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -21584,7 +21584,7 @@
             "open_issues": 639,
             "owner": "TeamAmaze",
             "repo": "AmazeFileManager",
-            "stars": 6408,
+            "stars": 6406,
             "topics": [
               "android",
               "fdroid",
@@ -25062,7 +25062,7 @@
             "open_issues": 5,
             "owner": "mikepenz",
             "repo": "AboutLibraries",
-            "stars": 4456,
+            "stars": 4457,
             "topics": [
               "aboutlibraries",
               "android",
@@ -27394,7 +27394,7 @@
             "open_issues": 116,
             "owner": "facebook",
             "repo": "litho",
-            "stars": 7798,
+            "stars": 7799,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:34.221Z"
@@ -27763,7 +27763,7 @@
             "open_issues": 9,
             "owner": "developer-shivam",
             "repo": "Crescento",
-            "stars": 1264,
+            "stars": 1263,
             "topics": [
               "appcompat-support",
               "curve",
@@ -29795,7 +29795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:02:59.016Z",
+    "last_updated": "2026-10-04T10:45:30.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "安卓UI相关开源项目库汇总 ",
@@ -29807,7 +29807,7 @@
       "open_issues": 16,
       "owner": "opendigg",
       "repo": "awesome-github-android-ui",
-      "stars": 5771,
+      "stars": 5772,
       "topics": [
         "android-library",
         "android-ui",
