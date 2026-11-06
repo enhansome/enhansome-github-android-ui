@@ -100,7 +100,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) ⭐ 5,198 | 🐛 20 | 🌐 Java | 📅 2020-08-08 ★3979 - 创意边侧菜单
 * [SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav) ⭐ 3,033 | 🐛 55 | 🌐 Java | 📅 2022-07-22 ★1589 - 仿DrawerLayout的ViewGroup
 * [FlowingDrawer](https://github.com/mxn21/FlowingDrawer) ⭐ 2,544 | 🐛 3 | 🌐 Java | 📅 2022-07-20 ★1784 - 向右滑动流动抽屉效果
-* [FantasySlide](https://github.com/mzule/FantasySlide) ⭐ 1,415 | 🐛 4 | 🌐 Java | 📅 2017-02-15 ★1084 - 单手势滑出侧边栏与选择菜单
+* [FantasySlide](https://github.com/mzule/FantasySlide) ⭐ 1,414 | 🐛 4 | 🌐 Java | 📅 2017-02-15 ★1084 - 单手势滑出侧边栏与选择菜单
 * [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) ⭐ 1,277 | 🐛 3 | 🌐 Java | 📅 2022-08-30 ★806 - 浮动菜单显示锚导航视图
 * [SwipeMenuDemo](https://github.com/Brioal/SwipeMenuDemo) ⭐ 775 | 🐛 8 | 🌐 Java | 📅 2018-03-17 ★533 - 侧滑菜单动画效果库
 * [ArcNavigationView](https://github.com/rom4ek/ArcNavigationView) ⚠️ Archived ★353 - 具有曲线边缘的NavigationView
@@ -125,10 +125,10 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## WebView
 
 * [JsBridge](https://github.com/lzyzsd/JsBridge) ⭐ 9,912 | 🐛 131 | 🌐 Java | 📅 2026-09-12 ★3073 - Android的Java和JavaScript桥接
-* [AgentWeb](https://github.com/Justson/AgentWeb) ⭐ 9,437 | 🐛 70 | 🌐 Java | 📅 2026-09-14 ★455 - 一个高度封装的 WebView
+* [AgentWeb](https://github.com/Justson/AgentWeb) ⭐ 9,435 | 🐛 70 | 🌐 Java | 📅 2026-09-14 ★455 - 一个高度封装的 WebView
 * [DSBridge-Android](https://github.com/wendux/DSBridge-Android) ⭐ 3,882 | 🐛 105 | 🌐 Java | 📅 2020-09-11 ★162 - 目前地球上最好的IOS及Android javascript bridge
 * [AndroidChromium](https://github.com/JackyAndroid/AndroidChromium) ⭐ 3,146 | 🐛 18 | 🌐 Java | 📅 2020-09-02 ★1532 - 谷歌浏览器安卓版源码项目
-* [FinestWebView-Android](https://github.com/TheFinestArtist/FinestWebView-Android) ⭐ 2,298 | 🐛 131 | 🌐 Kotlin | 📅 2023-02-06 ★1478 - 可自定义webview
+* [FinestWebView-Android](https://github.com/TheFinestArtist/FinestWebView-Android) ⭐ 2,297 | 🐛 131 | 🌐 Kotlin | 📅 2023-02-06 ★1478 - 可自定义webview
 * [DSBridge-IOS](https://github.com/wendux/DSBridge-IOS) ⭐ 2,014 | 🐛 67 | 🌐 Objective-C | 📅 2023-02-22 ★135 - 目前地球上最好的IOS javascript bridge
 * [VideoEnabledWebView](https://github.com/cprcrack/VideoEnabledWebView) ⭐ 1,058 | 🐛 45 | 🌐 Java | 📅 2020-04-23 ★622 - Android的WebView和WebChromeClint类扩展
 * [CollapsingToolbar-With-Webview](https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview) ⭐ 210 | 🐛 0 | 🌐 Java | 📅 2017-04-23 ★190 - 带有可折叠toolbar的Webview
@@ -138,10 +138,10 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## SwitchButton
 
 * [SwitchButton](https://github.com/zcweng/SwitchButton) ⭐ 2,752 | 🐛 40 | 🌐 Kotlin | 📅 2024-01-12 ★399 - 优美的轻量级自定义样式的Switch按钮
-* [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) ⭐ 2,312 | 🐛 0 | 🌐 Kotlin | 📅 2024-04-16 ★1470 - Switch图标的Google启动器风格实现
+* [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) ⭐ 2,310 | 🐛 0 | 🌐 Kotlin | 📅 2024-04-16 ★1470 - Switch图标的Google启动器风格实现
 * [ToggleButton](https://github.com/zcweng/ToggleButton) ⭐ 2,095 | 🐛 28 | 🌐 Java | 📅 2023-09-15 ★1770 - Android上类似iOS的开关控件
 * [material-animated-switch](https://github.com/glomadrian/material-animated-switch) ⭐ 1,159 | 🐛 25 | 🌐 Java | 📅 2020-02-28 ★974 - 带有图标动画和颜色转换的Switch
-* [IconSwitch](https://github.com/polyak01/IconSwitch) ⭐ 896 | 🐛 7 | 🌐 Java | 📅 2019-01-23 ★580 - 自定义切换部件
+* [IconSwitch](https://github.com/polyak01/IconSwitch) ⭐ 895 | 🐛 7 | 🌐 Java | 📅 2019-01-23 ★580 - 自定义切换部件
 * [SHSwitchView](https://github.com/7heaven/SHSwitchView) ⭐ 360 | 🐛 1 | 🌐 Java | 📅 2017-04-17 ★322 - iOS7风格的Switch开关
 * [SwitchButton](https://github.com/xiaopansky/SwitchButton) ⚠️ Archived ★284 - 安卓开关按钮
 * [switchView](https://github.com/799536960/switchView) ⭐ 80 | 🐛 2 | 🌐 Java | 📅 2017-05-31 ★19 - 带有文字的switch
@@ -149,8 +149,8 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## 按钮
 
 * [FancyButtons](https://github.com/medyo/Fancybuttons) ⭐ 1,751 | 🐛 27 | 🌐 Java | 📅 2021-02-20 ★1148 - 创建花式按钮
-* [AnimShopButton](https://github.com/mcxtzhang/AnimShopButton) ⭐ 1,290 | 🐛 11 | 🌐 Java | 📅 2017-11-18 ★788 - 带伸缩位移旋转动画的购物车按钮
-* [GoodView](https://github.com/venshine/GoodView) ⭐ 1,287 | 🐛 0 | 🌐 Java | 📅 2026-10-30 ★774 - Android点赞+1效果
+* [AnimShopButton](https://github.com/mcxtzhang/AnimShopButton) ⭐ 1,289 | 🐛 11 | 🌐 Java | 📅 2017-11-18 ★788 - 带伸缩位移旋转动画的购物车按钮
+* [GoodView](https://github.com/venshine/GoodView) ⭐ 1,286 | 🐛 0 | 🌐 Java | 📅 2026-10-30 ★774 - Android点赞+1效果
 * [StateButton](https://github.com/niniloveyou/StateButton) ⭐ 1,285 | 🐛 3 | 🌐 Java | 📅 2019-01-23 ★768 - 不必为每种类型的button写一个drawable
 * [SparkButton](https://github.com/varunest/SparkButton) ⭐ 1,259 | 🐛 4 | 🌐 Java | 📅 2021-11-19 ★693 - 创建一个带动画效果的按钮
 * [ArrowDownloadButton](https://github.com/fenjuly/ArrowDownloadButton) ⭐ 945 | 🐛 3 | 🌐 Java | 📅 2018-01-25 ★790 - 超酷的下载按钮
@@ -158,7 +158,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [ProgressRoundButton](https://github.com/cctanfujun/ProgressRoundButton) ⭐ 875 | 🐛 5 | 🌐 Java | 📅 2019-02-13 ★634 - 显示进度的流畅下载按钮
 * [fab](https://github.com/Scalified/fab) ⭐ 834 | 🐛 8 | 🌐 Java | 📅 2021-11-04 ★764 - 浮动按钮
 * [FabButton](https://github.com/ckurtm/FabButton) ⚠️ Archived ★671 - 带有进度条指示器的环形浮动动作按钮
-* [HoldingButton](https://github.com/dewarder/HoldingButton) ⭐ 589 | 🐛 9 | 🌐 Java | 📅 2018-10-21 ★471 - 控制录音状态的按钮
+* [HoldingButton](https://github.com/dewarder/HoldingButton) ⭐ 588 | 🐛 9 | 🌐 Java | 📅 2018-10-21 ★471 - 控制录音状态的按钮
 * [SubmitButton](https://github.com/SparkYuan/SubmitButton) ⭐ 545 | 🐛 7 | 🌐 Java | 📅 2021-06-04 ★356 - 实用酷炫又优雅的提交按钮
 * [ButtonProgressBar](https://github.com/ishaan1995/ButtonProgressBar) ⭐ 505 | 🐛 1 | 🌐 Java | 📅 2018-06-04 ★329 - 下载按钮进度条
 * [swipe-button](https://github.com/ebanx/swipe-button) ⚠️ Archived ★216 - swipe button
@@ -184,7 +184,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 * [ShineButton](https://github.com/ChadCSong/ShineButton) ⭐ 4,196 | 🐛 25 | 🌐 Kotlin | 📅 2026-07-30 ★2533 - 安卓闪光UI库
 * [LikeButton](https://github.com/jd-alexander/LikeButton) ⭐ 3,000 | 🐛 16 | 🌐 Java | 📅 2024-01-26 ★1897 - 仿Twitter点赞时的的heart
-* [GoodView](https://github.com/venshine/GoodView) ⭐ 1,287 | 🐛 0 | 🌐 Java | 📅 2026-10-30 ★774 - Android点赞+1效果
+* [GoodView](https://github.com/venshine/GoodView) ⭐ 1,286 | 🐛 0 | 🌐 Java | 📅 2026-10-30 ★774 - Android点赞+1效果
 * [SparkButton](https://github.com/varunest/SparkButton) ⭐ 1,259 | 🐛 4 | 🌐 Java | 📅 2021-11-19 ★693 - 创建一个带动画效果的按钮
 * [ThumbUp](https://github.com/ldoublem/ThumbUp) ⭐ 611 | 🐛 2 | 🌐 Java | 📅 2017-02-15 ★559 - 精致的点赞控件
 * [MagicFloatView](https://github.com/yanbober/MagicFloatView) ⭐ 290 | 🐛 0 | 🌐 Java | 📅 2017-01-05 ★232 - 自定义拓展漂浮路径的MagicFlyLinearLayout 控件
@@ -202,12 +202,12 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [LoadingView](https://github.com/ldoublem/LoadingView) ⭐ 2,711 | 🐛 21 | 🌐 Java | 📅 2021-12-20 ★1719 - 简单的带有动画效果的加载控件
 * [ProgressWheel](https://github.com/Todd-Davies/ProgressWheel) ⭐ 2,623 | 🐛 9 | 🌐 Java | 📅 2019-11-02 ★2260 - 圆形旋转效果
 * [Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) ⭐ 2,606 | 🐛 4 | 🌐 Kotlin | 📅 2026-06-14 ★1252 - Android圆角进度条库
-* [CircularReveal](https://github.com/ozodrukh/CircularReveal) ⭐ 2,395 | 🐛 24 | 🌐 Java | 📅 2019-04-07 ★2034 - 创建加载动画效果
+* [CircularReveal](https://github.com/ozodrukh/CircularReveal) ⭐ 2,393 | 🐛 24 | 🌐 Java | 📅 2019-04-07 ★2034 - 创建加载动画效果
 * [MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar) ⭐ 2,233 | 🐛 7 | 🌐 Java | 📅 2020-07-03 ★1213 - MD风格的进度条
 * [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) ⭐ 1,970 | 🐛 15 | 🌐 Java | 📅 2022-07-20 ★1603 - 有趣的填充型进程视图
 * [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) ⭐ 1,765 | 🐛 8 | 🌐 Java | 📅 2018-02-11 ★1321 - 高仿新版58 加载动画
 * [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) ⭐ 1,722 | 🐛 33 | 🌐 Java | 📅 2022-10-15 ★1176 - 仿真波浪加载效果
-* [KProgressHUD](https://github.com/Kaopiz/KProgressHUD) ⭐ 1,643 | 🐛 38 | 🌐 Java | 📅 2020-04-03 ★757 - 安卓ProgressHUD实现
+* [KProgressHUD](https://github.com/Kaopiz/KProgressHUD) ⭐ 1,642 | 🐛 38 | 🌐 Java | 📅 2020-04-03 ★757 - 安卓ProgressHUD实现
 * [ElasticDownload](https://github.com/Tibolte/ElasticDownload) ⭐ 1,634 | 🐛 15 | 🌐 Java | 📅 2018-05-10 ★1442 - 下载动画效果
 * [MetaballLoading](https://github.com/dodola/MetaballLoading) ⭐ 1,522 | 🐛 3 | 🌐 Java | 📅 2017-04-18 ★1352 - 一个2d圆球加载
 * [WaveLoading](https://github.com/race604/WaveLoading) ⭐ 1,442 | 🐛 9 | 🌐 Java | 📅 2018-05-05 ★1094 - 能够提供波浪动画的Drawable
@@ -230,7 +230,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [SlackLoadingView](https://github.com/JeasonWong/SlackLoadingView) ⭐ 673 | 🐛 4 | 🌐 Java | 📅 2016-09-24 ★604 - 模仿Slack加载动画
 * [FAB-Loading](https://github.com/SaeedMasoumi/FAB-Loading) ⭐ 671 | 🐛 7 | 🌐 Java | 📅 2018-10-28 ★482 - 浮动加载动画
 * [Android-SVProgressHUD](https://github.com/saiwu-bigkoo/Android-SVProgressHUD) ⭐ 646 | 🐛 23 | 🌐 Java | 📅 2016-12-05 ★464 - 精仿iOS的提示库 SVProgressHUD
-* [FlickerProgressBar](https://github.com/LineChen/FlickerProgressBar) ⭐ 646 | 🐛 5 | 🌐 Java | 📅 2018-05-23 ★444 - 安卓仿应用宝下载进度条
+* [FlickerProgressBar](https://github.com/LineChen/FlickerProgressBar) ⭐ 645 | 🐛 5 | 🌐 Java | 📅 2018-05-23 ★444 - 安卓仿应用宝下载进度条
 * [RingProgress](https://github.com/ldoublem/RingProgress) ⭐ 622 | 🐛 5 | 🌐 Java | 📅 2020-01-23 ★472 - 带效果的环形进度条
 * [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) ⭐ 621 | 🐛 3 | 🌐 Java | 📅 2017-12-12 ★598 - 自定义模糊进度条
 * [CircleView](https://github.com/pavlospt/CircleView) ⭐ 516 | 🐛 0 | 🌐 Kotlin | 📅 2026-07-25 ★480 - 包含标题和子标题的环形视图
@@ -238,14 +238,14 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [CircleAlarmTimerView](https://github.com/yingLanNull/CircleAlarmTimerView) ⭐ 463 | 🐛 1 | 🌐 Java | 📅 2017-07-18 ★306 - 圆形进度条
 * [LoadingDialog](https://github.com/ForgetAll/LoadingDialog) ⚠️ Archived ★95 - 简单好用的LoadingDialog
 * [snackprogressbar](https://github.com/tingyik90/snackprogressbar) ⭐ 397 | 🐛 0 | 🌐 Kotlin | 📅 2020-06-12 ★180 - 带有ProgressBar的增强型Snackbar
-* [pageloader](https://github.com/arieridwan8/pageloader) ⭐ 348 | 🐛 0 | 🌐 Java | 📅 2021-10-03 ★346 - 轻松自定义加载页面
+* [pageloader](https://github.com/arieridwan8/pageloader) ⭐ 347 | 🐛 0 | 🌐 Java | 📅 2021-10-03 ★346 - 轻松自定义加载页面
 * [ProgressView](https://github.com/WhiteDG/ProgressView) ⭐ 341 | 🐛 2 | 🌐 Java | 📅 2023-11-29 ★156 - 多种样式的进度条
 * [OverWatchLoading](https://github.com/zhangyuChen1991/OverWatchLoading) ⭐ 319 | 🐛 2 | 🌐 Java | 📅 2017-12-22 ★250 - 守望先锋的加载动画效果
 * [SquareLoading](https://github.com/yuweiguocn/SquareLoading) ⭐ 302 | 🐛 0 | 🌐 Java | 📅 2016-12-15 ★292 - 一个方形动画加载器
 * [LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress) ⭐ 263 | 🐛 0 | 🌐 Java | 📅 2019-04-19 ★204 - 仿新浪体育客户端的进度条
 * [BGAProgressBar-Android](https://github.com/bingoogolapple/BGAProgressBar-Android) ⭐ 263 | 🐛 3 | 🌐 Java | 📅 2026-07-27 ★31 - 安卓进度条
 * [AdhesiveLoadingView](https://github.com/yxping/AdhesiveLoadingView) ⭐ 262 | 🐛 1 | 🌐 Java | 📅 2016-01-28 ★262 - 具有粘性的滑动小球loading
-* [SwipeCoordinator](https://github.com/VictorAlbertos/SwipeCoordinator) ⭐ 251 | 🐛 0 | 🌐 Java | 📅 2020-08-09 ★218 - 简化动画滑动视图进程
+* [SwipeCoordinator](https://github.com/VictorAlbertos/SwipeCoordinator) ⭐ 250 | 🐛 0 | 🌐 Java | 📅 2020-08-09 ★218 - 简化动画滑动视图进程
 * [BounceLoadingView](https://github.com/niniloveyou/BounceLoadingView) ⭐ 245 | 🐛 2 | 🌐 Java | 📅 2016-11-11 ★173 - 模仿饿了么加载效果
 * [LoadingProgress](https://github.com/peng8350/LoadingProgress) ⭐ 209 | 🐛 1 | 🌐 Java | 📅 2017-05-17 ★148 - 加载进度条
 * [LazyLoadingViews](https://github.com/jineshfrancs/LazyLoadingViews) ⭐ 200 | 🐛 0 | 🌐 Java | 📅 2017-06-05 ★81 - Adapter视图中子视图加载效果
@@ -269,7 +269,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## TabLayout
 
 * [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout) ⭐ 11,077 | 🐛 369 | 🌐 Java | 📅 2023-05-28 ★4126 - Android的TabLayout库
-* [MagicIndicator](https://github.com/hackware1993/MagicIndicator) ⭐ 9,790 | 🐛 187 | 🌐 Java | 📅 2024-12-07 ★2310 - 强大易扩展的ViewPager指示器框架
+* [MagicIndicator](https://github.com/hackware1993/MagicIndicator) ⭐ 9,789 | 🐛 187 | 🌐 Java | 📅 2024-12-07 ★2310 - 强大易扩展的ViewPager指示器框架
 * [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) ⚠️ Archived ★4416 - 在用户滚动时给出连续的反馈
 * [CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout) ⭐ 4,172 | 🐛 18 | 🌐 Java | 📅 2019-12-25 ★2021 - 自定义组合控件
 * [NavigationTabStrip](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip) ⭐ 2,208 | 🐛 38 | 🌐 Java | 📅 2020-10-02 ★1413 - 平滑可交互导航标签条
@@ -281,7 +281,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 图标
 
-* [Material design icons](https://github.com/google/material-design-icons) ⭐ 54,234 | 🐛 430 | 📅 2026-10-23 ★30013 - 谷歌官方图标
+* [Material design icons](https://github.com/google/material-design-icons) ⭐ 54,240 | 🐛 429 | 📅 2026-10-23 ★30013 - 谷歌官方图标
 * [Android-Iconics](https://github.com/mikepenz/Android-Iconics) ⭐ 5,277 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-20 ★2825 - 在应用中使用图标字体或矢量
 * [android-iconify](https://github.com/JoanZapata/android-iconify) ⭐ 3,914 | 🐛 67 | 🌐 Java | 📅 2022-11-17 ★2966 - 多个图标供应商的图标整合
 * [material-icon-lib](https://github.com/code-mc/material-icon-lib) ⭐ 2,249 | 🐛 12 | 🌐 Java | 📅 2019-12-15 ★1947 - 1500个MD风格矢量图标
@@ -290,9 +290,9 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 下拉刷新
 
-* [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) ⭐ 9,491 | 🐛 174 | 🌐 Java | 📅 2023-05-28 ★7947 - 下拉刷新项目的替代方案
+* [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) ⭐ 9,490 | 🐛 174 | 🌐 Java | 📅 2023-05-28 ★7947 - 下拉刷新项目的替代方案
 * [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) ⭐ 4,285 | 🐛 96 | 🌐 Java | 📅 2026-07-11 ★2998 - 多种下拉刷新和上拉加载插件
-* [TwinklingRefreshLayout](https://github.com/lcodecorex/TwinklingRefreshLayout) ⭐ 3,976 | 🐛 114 | 🌐 Java | 📅 2023-03-27 ★2111 - 下拉刷新和上拉加载的RefreshLayout
+* [TwinklingRefreshLayout](https://github.com/lcodecorex/TwinklingRefreshLayout) ⭐ 3,975 | 🐛 114 | 🌐 Java | 📅 2023-03-27 ★2111 - 下拉刷新和上拉加载的RefreshLayout
 * [Phoenix](https://github.com/Yalantis/Phoenix) ⭐ 3,968 | 🐛 14 | 🌐 Java | 📅 2022-09-22 ★3296 - 可自定义滑动刷新实现
 * [FlyRefresh](https://github.com/race604/FlyRefresh) ⭐ 2,802 | 🐛 5 | 🌐 Java | 📅 2016-03-14 ★2762 - 最有特色的下拉刷新
 * [SwipeToLoadLayout](https://github.com/Aspsine/SwipeToLoadLayout) ⭐ 2,082 | 🐛 48 | 🌐 Java | 📅 2018-09-29 ★1522 - 可重用下拉刷新及上拉加载更多组件
@@ -310,13 +310,13 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [EasyRefreshLayout](https://github.com/anzaizai/EasyRefreshLayout) ⭐ 637 | 🐛 17 | 🌐 Java | 📅 2017-07-27 ★116 - 轻松实现下拉刷新和上拉加载
 * [JellyRefreshLayout](https://github.com/imallan/JellyRefreshLayout) ⭐ 618 | 🐛 4 | 🌐 Java | 📅 2016-08-24 ★608 - 下拉刷新布局
 * [AnimRefreshRecyclerView](https://github.com/shichaohui/AnimRefreshRecyclerView) ⭐ 568 | 🐛 13 | 🌐 Java | 📅 2016-04-11 ★534 - 下拉刷新和上拉加载更多的RecyclerView
-* [SmartisanPull](https://github.com/hougr/SmartisanPull) ⭐ 520 | 🐛 3 | 🌐 Java | 📅 2016-08-31 ★506 - 最优雅的下拉控件
+* [SmartisanPull](https://github.com/hougr/SmartisanPull) ⭐ 518 | 🐛 3 | 🌐 Java | 📅 2016-08-31 ★506 - 最优雅的下拉控件
 * [PullToRefresh](https://github.com/lubeast/PullToRefresh) ⚠️ Archived ★516 - 下拉刷新实现
 * [ShootRefreshView](https://github.com/dinuscxj/ShootRefreshView) ⭐ 361 | 🐛 0 | 🌐 Java | 📅 2018-10-23 ★263 - 快手Android客户端刷新动画
 * [LoadingViewFinal](https://github.com/pengjianbo/LoadingViewFinal) ⭐ 284 | 🐛 17 | 🌐 Java | 📅 2016-08-10 ★269 - 实现了下拉刷新/加载更多的android组件
 * [RecyclerRefresh](https://github.com/leoleohan/RecyclerRefresh) ⚠️ Archived ★172 - 仿简书安卓端
 * [PullRefreshView](https://github.com/Y-bao/PullRefreshView) ⭐ 237 | 🐛 4 | 🌐 Java | 📅 2020-06-29 ★241 - 为滑动控件添加上拉刷新下拉加载等功能
-* [SmileRefresh](https://github.com/songixan/SmileRefresh) ⭐ 195 | 🐛 0 | 🌐 Java | 📅 2016-11-01 ★191 - 微笑下拉刷新
+* [SmileRefresh](https://github.com/songixan/SmileRefresh) ⭐ 194 | 🐛 0 | 🌐 Java | 📅 2016-11-01 ★191 - 微笑下拉刷新
 * [CoolRefreshView](https://github.com/LuckyJayce/CoolRefreshView) ⭐ 191 | 🐛 5 | 🌐 Java | 📅 2018-11-07 ★128 - 安卓刷新视图库
 * [HorizontalRefreshLayout](https://github.com/linuxjava/HorizontalRefreshLayout) ⭐ 160 | 🐛 2 | 🌐 Java | 📅 2017-02-15 ★36 - 实现左右刷新
 * [DxWaveRefresh](https://github.com/StevenDXC/DxWaveRefresh) ⭐ 90 | 🐛 0 | 🌐 Java | 📅 2016-12-29 ★34 - 波浪效果的下拉刷新
@@ -331,13 +331,13 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## ViewPager
 
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) ⚠️ Archived ★6124 - 安卓选项卡插件
-* [InfiniteCycleViewPager](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager) ⭐ 5,677 | 🐛 57 | 🌐 Java | 📅 2022-08-09 ★3807 - 无限循环的视图页
+* [InfiniteCycleViewPager](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager) ⭐ 5,676 | 🐛 57 | 🌐 Java | 📅 2022-08-09 ★3807 - 无限循环的视图页
 * [UltraViewPager](https://github.com/alibaba/UltraViewPager) ⚠️ Archived ★1833 - 封装多种特性的ViewPager
-* [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView) ⭐ 4,613 | 🐛 56 | 🌐 Java | 📅 2024-08-09 ★1971 - 能够指示选定页的ViewPage
+* [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView) ⭐ 4,612 | 🐛 56 | 🌐 Java | 📅 2024-08-09 ★1971 - 能够指示选定页的ViewPage
 * [CircleIndicator](https://github.com/ongakuer/CircleIndicator) ⭐ 4,250 | 🐛 32 | 🌐 Java | 📅 2023-05-03 ★2283 - 轻量级ViewPager指示器
 * [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards) ⚠️ Archived ★2297 - 视图页卡片
 * [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager) ⭐ 3,496 | 🐛 124 | 🌐 Java | 📅 2021-03-11 ★2372 - 基于RecyclerView的ViewPager替代品
-* [android-page-transition](https://github.com/xmuSistone/android-page-transition) ⭐ 3,018 | 🐛 4 | 🌐 Java | 📅 2017-05-03 ★1641 - 带有垂直滑动效果和Activity过渡的ViewPager
+* [android-page-transition](https://github.com/xmuSistone/android-page-transition) ⭐ 3,017 | 🐛 4 | 🌐 Java | 📅 2017-05-03 ★1641 - 带有垂直滑动效果和Activity过渡的ViewPager
 * [ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator) ⭐ 2,567 | 🐛 46 | 🌐 Java | 📅 2019-12-17 ★1586 - 布局插件
 * [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) ⭐ 2,562 | 🐛 8 | 🌐 Kotlin | 📅 2021-02-17 ★1542 - 包含视图页滚动常见动画的库
 * [ZoomHeader](https://github.com/githubwing/ZoomHeader) ⭐ 2,469 | 🐛 5 | 🌐 Java | 📅 2016-12-10 ★1797 - 模仿饿了么详情页的例子
@@ -347,14 +347,14 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [GalleryLayoutManager](https://github.com/BCsl/GalleryLayoutManager) ⭐ 1,011 | 🐛 26 | 🌐 Java | 📅 2022-08-23 ★151 - Android中Gallery或ViewPager控件的效果
 * [MultiViewPager](https://github.com/Pixplicity/MultiViewPager) ⭐ 902 | 🐛 4 | 🌐 Java | 📅 2016-08-31 ★855 - 支持V4库的ViewPager的扩展
 * [MagicViewPager](https://github.com/hongyangAndroid/MagicViewPager) ⭐ 875 | 🐛 8 | 🌐 Java | 📅 2017-08-13 ★420 - 单页ViewPager炫酷切换效果
-* [BezierViewPager](https://github.com/qdxxxx/BezierViewPager) ⭐ 852 | 🐛 6 | 🌐 Java | 📅 2018-08-11 ★494 - 触摸贝塞尔圆球式图片展示
+* [BezierViewPager](https://github.com/qdxxxx/BezierViewPager) ⭐ 851 | 🐛 6 | 🌐 Java | 📅 2018-08-11 ★494 - 触摸贝塞尔圆球式图片展示
 * [DecentBanner](https://github.com/chengdazhi/DecentBanner) ⭐ 838 | 🐛 1 | 🌐 Java | 📅 2016-08-31 ★812 - 基于安卓Banner的ViewPager
 * [HeaderViewPager](https://github.com/jeasonlzy/HeaderViewPager) ⭐ 767 | 🐛 35 | 🌐 Java | 📅 2017-03-29 ★341 - 具有共同头部的 ViewPager
 * [ExpandablePager](https://github.com/Telenav/ExpandablePager) ⚠️ Archived ★684 - 两个状态（展开和滑动）间的垂直滑动切换
 * [InfiniteViewPager](https://github.com/antonyt/InfiniteViewPager) ⭐ 687 | 🐛 31 | 🌐 Java | 📅 2018-04-11 ★587 - 环绕实现首页末页跳转
 * [ParallaxViewPager](https://github.com/ybq/ParallaxViewPager) ⭐ 587 | 🐛 3 | 🌐 Java | 📅 2016-09-09 ★497 - 安卓视差视图页
 * [InfiniteIndicator](https://github.com/lightSky/InfiniteIndicator) ⭐ 483 | 🐛 6 | 🌐 Java | 📅 2017-12-06 ★469 - 视图回收适配器
-* [YViewPagerDemo](https://github.com/youngkaaa/YViewPagerDemo) ⭐ 356 | 🐛 6 | 🌐 Java | 📅 2019-01-29 ★247 - 水平竖直方向上滑动
+* [YViewPagerDemo](https://github.com/youngkaaa/YViewPagerDemo) ⭐ 355 | 🐛 6 | 🌐 Java | 📅 2019-01-29 ★247 - 水平竖直方向上滑动
 * [ViewPagerAnimator](https://github.com/StylingAndroid/ViewPagerAnimator) ⭐ 332 | 🐛 1 | 🌐 Java | 📅 2017-10-28 ★240 - ViewPager动画库
 * [InkeVerticalViewPagerLive](https://github.com/xingstarx/InkeVerticalViewPagerLive) ⭐ 273 | 🐛 9 | 🌐 Java | 📅 2021-06-15 ★83 - 仿映客上下滑动切换直播demo
 * [ExpandableViewpager](https://github.com/githubwing/ExpandableViewpager) ⭐ 267 | 🐛 1 | 🌐 Java | 📅 2016-12-12 ★232 - 可展开缩小的Viewpager
@@ -366,7 +366,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## 图表(Chart)
 
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ⭐ 38,187 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-09 ★16070 - 安卓图表解决方案
-* [hellocharts-android](https://github.com/lecho/hellocharts-android) ⭐ 7,561 | 🐛 292 | 🌐 Java | 📅 2021-06-01 ★4332 - Android图表库
+* [hellocharts-android](https://github.com/lecho/hellocharts-android) ⭐ 7,560 | 🐛 292 | 🌐 Java | 📅 2021-06-01 ★4332 - Android图表库
 * [WilliamChart](https://github.com/diogobernardino/WilliamChart) ⭐ 5,093 | 🐛 35 | 🌐 Kotlin | 📅 2025-10-04 ★3145 - 在应用程序中实现图表的Android库
 * [GraphView](https://github.com/jjoe64/GraphView) ⭐ 2,775 | 🐛 174 | 🌐 Java | 📅 2023-01-11 ★1630 - 通过编程创建灵活好看的图表
 * [AndroidCharts](https://github.com/HackPlan/AndroidCharts) ⭐ 1,320 | 🐛 23 | 🌐 Java | 📅 2021-05-12 ★935 - 一个简单的Android图表库
@@ -375,8 +375,8 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [android-DecoView-charting](https://github.com/bmarrdev/android-DecoView-charting) ⭐ 984 | 🐛 25 | 🌐 Java | 📅 2022-02-28 ★780 - 实现高度可配置动画环形图表
 * [SuitLines](https://github.com/whataa/SuitLines) ⭐ 859 | 🐛 17 | 🌐 Java | 📅 2018-07-09 ★650 - 小巧且高效的线性图表组件
 * [candybar-library](https://github.com/danimahardhika/candybar-library) ⚠️ Archived ★107 - Android图表包装材料面板
-* [RadarChartView](https://github.com/DmitriyZaitsev/RadarChartView) ⭐ 487 | 🐛 4 | 🌐 Java | 📅 2016-12-26 ★419 - 渲染径向图的Android视图
-* [RadarChart](https://github.com/qstumn/RadarChart) ⭐ 400 | 🐛 6 | 🌐 Java | 📅 2017-10-12 ★195 - 自由定制旋转交互的Android雷达图
+* [RadarChartView](https://github.com/DmitriyZaitsev/RadarChartView) ⭐ 486 | 🐛 4 | 🌐 Java | 📅 2016-12-26 ★419 - 渲染径向图的Android视图
+* [RadarChart](https://github.com/qstumn/RadarChart) ⭐ 398 | 🐛 6 | 🌐 Java | 📅 2017-10-12 ★195 - 自由定制旋转交互的Android雷达图
 * [SlimChart](https://github.com/mancj/SlimChart) ⭐ 180 | 🐛 1 | 🌐 Java | 📅 2018-08-19 ★80 - 轻量级便于使用的图表库
 * [AndroidChart](https://github.com/JeasonWong/AndroidChart) ⭐ 165 | 🐛 0 | 🌐 Java | 📅 2017-08-31 ★157 - 简单的安卓分时行情页
 * [PianoChartView](https://github.com/Andy671/PianoChartView) ⚠️ Archived ★21 - 显示钢琴和弦比例尺图
@@ -385,13 +385,13 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 菜单(Menu)
 
-* [AwesomeMenu](https://github.com/levey/AwesomeMenu) ⭐ 4,952 | 🐛 19 | 🌐 Objective-C | 📅 2018-09-28 ★5086 - 与Path的故事菜单具有相同外观的菜单
+* [AwesomeMenu](https://github.com/levey/AwesomeMenu) ⭐ 4,951 | 🐛 19 | 🌐 Objective-C | 📅 2018-09-28 ★5086 - 与Path的故事菜单具有相同外观的菜单
 * [Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) ⭐ 3,817 | 🐛 6 | 🌐 Kotlin | 📅 2022-09-22 ★2965 - 独特的动画内容菜单
 * [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) ⭐ 3,554 | 🐛 58 | 🌐 Java | 📅 2022-02-18 ★2010 - 多条件筛选菜单
 * [DropDownMenu](https://github.com/baiiu/DropDownMenu) ⭐ 1,158 | 🐛 6 | 🌐 Java | 📅 2018-01-08 ★632 - 完整的筛选器解决方案
 * [TapBarMenu](https://github.com/michaldrabik/TapBarMenu) ⭐ 1,006 | 🐛 4 | 🌐 Java | 📅 2019-01-25 ★803 - Tap Bar菜单布局
 * [FlyoutMenus](https://github.com/ShamylZakariya/FlyoutMenus) ⭐ 984 | 🐛 2 | 🌐 Java | 📅 2019-04-21 ★821 - Android简易MD风格弹出菜单
-* [CircleMenu](https://github.com/Hitomis/CircleMenu) ⭐ 953 | 🐛 17 | 🌐 Java | 📅 2019-09-23 ★723 - 具有设计感的菜单
+* [CircleMenu](https://github.com/Hitomis/CircleMenu) ⭐ 950 | 🐛 17 | 🌐 Java | 📅 2019-09-23 ★723 - 具有设计感的菜单
 * [SpinMenu](https://github.com/Hitomis/SpinMenu) ⭐ 888 | 🐛 3 | 🌐 Java | 📅 2017-02-15 ★656 - 轮播样式的Fragment菜单选择空间
 * [TopRightMenu](https://github.com/zaaach/TopRightMenu) ⭐ 594 | 🐛 7 | 🌐 Java | 📅 2021-11-17 ★349 - 仿手机QQ界面右上角的弹出菜单
 * [CycleMenu](https://github.com/Cleveroad/CycleMenu) ⭐ 571 | 🐛 3 | 🌐 Java | 📅 2019-01-02 ★251 - 圆形菜单
@@ -409,7 +409,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 * [BoomMenu](https://github.com/Nightonke/BoomMenu) ⭐ 5,774 | 🐛 121 | 🌐 Java | 📅 2023-03-12 ★3617 - 具有炸裂效果的菜单按钮
 * [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) ⚠️ Archived ★1995 - 自定义圆形浮动动画菜单
-* [CircleMenu](https://github.com/ImangazalievM/CircleMenu) ⭐ 1,196 | 🐛 7 | 🌐 Kotlin | 📅 2024-06-14 ★649 - 简单的优雅的菜单
+* [CircleMenu](https://github.com/ImangazalievM/CircleMenu) ⭐ 1,195 | 🐛 7 | 🌐 Kotlin | 📅 2024-06-14 ★649 - 简单的优雅的菜单
 * [TapBarMenu](https://github.com/michaldrabik/TapBarMenu) ⭐ 1,006 | 🐛 4 | 🌐 Java | 📅 2019-01-25 ★803 - Tap Bar菜单布局
 * [RelativePopupWindow](https://github.com/kakajika/RelativePopupWindow) ⭐ 806 | 🐛 3 | 🌐 Java | 📅 2019-09-06 ★554 - 轻松对锚视图相对定位
 * [FloatMenuSample](https://github.com/crosg/FloatMenuSample) ⭐ 702 | 🐛 11 | 🌐 Java | 📅 2026-01-30 ★264 - android 悬浮窗菜单
@@ -454,16 +454,16 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView) ⭐ 1,671 | 🐛 5 | 🌐 Java | 📅 2019-12-18 ★604 - 支持多种状态的自定义View
 * [MultiStateView](https://github.com/Kennyc1012/MultiStateView) ⭐ 1,215 | 🐛 3 | 🌐 Kotlin | 📅 2021-02-13 ★779 - 基于状态显示不同内容的Android视图
 * [progress-activity](https://github.com/vlonjatg/progress-activity) ⭐ 1,007 | 🐛 20 | 🌐 Java | 📅 2020-06-09 ★793 - 进度条空视图及错误视图库
-* [StatefulLayout](https://github.com/gturedi/StatefulLayout) ⭐ 799 | 🐛 2 | 🌐 Java | 📅 2020-01-05 ★610 - 显示最常见的状态模板
+* [StatefulLayout](https://github.com/gturedi/StatefulLayout) ⭐ 798 | 🐛 2 | 🌐 Java | 📅 2020-01-05 ★610 - 显示最常见的状态模板
 * [StatusView](https://github.com/iammert/StatusView) ⭐ 775 | 🐛 3 | 🌐 Java | 📅 2018-03-07 ★574 - Android自定义状态视图
 * [loadinglayout](https://github.com/czy1121/loadinglayout) ⚠️ Archived ★321 - 简单实用的页面多状态布局
 * [LoadingLayoutDemo](https://github.com/weavey/LoadingLayoutDemo) ⭐ 604 | 🐛 11 | 🌐 Java | 📅 2018-02-07 ★510 - 加载中/无网络/无数据/出错四种情况效果封装
 * [ErrorView](https://github.com/xiprox/ErrorView) ⚠️ Archived ★521 - 显示错误信息的自定义视图
-* [stateLayout](https://github.com/fingdo/stateLayout) ⭐ 474 | 🐛 1 | 🌐 Java | 📅 2017-10-11 ★359 - 快速switch布局
+* [stateLayout](https://github.com/fingdo/stateLayout) ⭐ 472 | 🐛 1 | 🌐 Java | 📅 2017-10-11 ★359 - 快速switch布局
 * [TEmptyView](https://github.com/barryhappy/TEmptyView) ⭐ 446 | 🐛 5 | 🌐 Java | 📅 2016-07-12 ★428 - 更简单地设置EmptyView
 * [LoadDataLayout](https://github.com/WangGanxin/LoadDataLayout) ⭐ 304 | 🐛 0 | 🌐 Java | 📅 2017-04-10 ★186 - 加载数据Layout
 * [FlowLayout](https://github.com/WassimBenltaief/FlowLayout) ⭐ 227 | 🐛 1 | 🌐 Java | 📅 2018-08-21 ★219 - 非常常见的安卓视图流
-* [MultiStateView](https://github.com/XuDaojie/MultiStateView) ⭐ 177 | 🐛 0 | 🌐 Java | 📅 2016-11-04 ★179 - 用于切换不同View的各种状态
+* [MultiStateView](https://github.com/XuDaojie/MultiStateView) ⭐ 176 | 🐛 0 | 🌐 Java | 📅 2016-11-04 ★179 - 用于切换不同View的各种状态
 * [PageStateManager](https://github.com/hss01248/PageStateManager) ⭐ 172 | 🐛 1 | 🌐 Java | 📅 2021-08-18 ★89 - 页面状态管理
 * [ProgressLayout](https://github.com/nguyenhoanglam/ProgressLayout) ⭐ 105 | 🐛 1 | 🌐 Java | 📅 2020-07-01 ★98 - 展示加载布局空白布局和error布局
 * [DataLoadingLayoutAndroid](https://github.com/lvleo/DataLoadingLayoutAndroid) ⭐ 17 | 🐛 0 | 🌐 Java | 📅 2017-07-26 ★15 - 展示当前数据加载状态的库
@@ -500,23 +500,23 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) ⭐ 24,563 | 🐛 341 | 🌐 Kotlin | 📅 2026-10-22 ★7640 - 强大灵活的RecyclerAdapter
 * [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) ⭐ 11,529 | 🐛 110 | 🌐 Kotlin | 📅 2023-12-30 ★6236 - 轻松创建动画RecyclerView
 * [vlayout](https://github.com/alibaba/vlayout) ⚠️ Archived ★4665 - 布局方案和布局间的组件复用
-* [epoxy](https://github.com/airbnb/epoxy) ⭐ 8,544 | 🐛 312 | 🌐 Java | 📅 2026-01-23 ★2896 - Airbnb安卓视图架构
+* [epoxy](https://github.com/airbnb/epoxy) ⭐ 8,543 | 🐛 312 | 🌐 Java | 📅 2026-01-23 ★2896 - Airbnb安卓视图架构
 * [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) ⭐ 7,165 | 🐛 181 | 🌐 Java | 📅 2026-10-18 ★5544 - 功能强大的Recyclerview
-* [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) ⭐ 5,770 | 🐛 44 | 🌐 Java | 📅 2024-08-19 ★2494 - 基于RecyclerView的滚动列表实现
-* [MultiType](https://github.com/drakeet/MultiType) ⭐ 5,746 | 🐛 12 | 🌐 Kotlin | 📅 2022-08-28 ★1998 - 快速清晰的开发复杂列表页面
+* [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) ⭐ 5,769 | 🐛 44 | 🌐 Java | 📅 2024-08-19 ★2494 - 基于RecyclerView的滚动列表实现
+* [MultiType](https://github.com/drakeet/MultiType) ⭐ 5,745 | 🐛 12 | 🌐 Kotlin | 📅 2022-08-28 ★1998 - 快速清晰的开发复杂列表页面
 * [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView) ⭐ 5,707 | 🐛 117 | 🌐 Java | 📅 2024-07-30 ★1742 - RecyclerView侧滑菜单
 * [android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview) ⭐ 5,310 | 🐛 194 | 🌐 Java | 📅 2023-08-21 ★3304 - 提供高级特性的RecyclerView扩展
 * [XRecyclerView](https://github.com/jianghejie/XRecyclerView) ⭐ 5,287 | 🐛 243 | 🌐 Java | 📅 2023-09-11 ★2972 - 下拉刷新和加载更多
 * [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) ⭐ 4,697 | 🐛 115 | 🌐 Java | 📅 2021-10-13 ★2685 - Android 万能的Adapter
 * [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) ⭐ 4,000 | 🐛 20 | 🌐 Kotlin | 📅 2023-10-30 ★1175 - 展现视图加载中的视图
-* [FastAdapter](https://github.com/mikepenz/FastAdapter) ⭐ 3,874 | 🐛 8 | 🌐 Kotlin | 📅 2026-04-09 ★1612 - 简化RecyclerView配置过程
+* [FastAdapter](https://github.com/mikepenz/FastAdapter) ⭐ 3,875 | 🐛 8 | 🌐 Kotlin | 📅 2026-04-09 ★1612 - 简化RecyclerView配置过程
 * [groupie](https://github.com/Genius/groupie) ⭐ 3,671 | 🐛 69 | 🌐 Java | 📅 2023-10-03 ★848 - 显示并管理复杂的RecyclerView布局
 * [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager) ⭐ 3,496 | 🐛 124 | 🌐 Java | 📅 2021-03-11 ★2372 - 基于RecyclerView的ViewPager替代品
 * [overscroll-decor](https://github.com/EverythingMe/overscroll-decor) ⭐ 2,906 | 🐛 46 | 🌐 Java | 📅 2021-04-22 ★1100 - Android的仿iOS滚动效果
 * [RecyclerViewCardGallery](https://github.com/huazhiyuan2008/RecyclerViewCardGallery) ⭐ 2,616 | 🐛 15 | 🌐 Java | 📅 2018-05-16 ★1443 - RecyclerView实现Card Gallery效果
 * [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView) ⚠️ Archived ★2463 - 轻松制作可使用的RecyclerView
 * [LRecyclerView](https://github.com/jdsjlzx/LRecyclerView) ⭐ 2,459 | 🐛 101 | 🌐 Java | 📅 2019-06-27 ★1366 - 多功能RecyclerView
-* [excelPanel](https://github.com/zhouchaoyuan/excelPanel) ⭐ 2,407 | 🐛 30 | 🌐 Java | 📅 2023-06-14 ★1305 - 仿Excel表格的RecyclerView
+* [excelPanel](https://github.com/zhouchaoyuan/excelPanel) ⭐ 2,406 | 🐛 30 | 🌐 Java | 📅 2023-06-14 ★1305 - 仿Excel表格的RecyclerView
 * [EasyRecyclerView](https://github.com/Jude95/EasyRecyclerView) ⭐ 2,005 | 🐛 110 | 🌐 Java | 📅 2022-07-27 ★1476 - 常用的RecyclerView的各种需求封装
 * [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview) ⚠️ Archived ★1036 - 实现GooglePhoto样式多选择
 * [android-parallax-recyclerview](https://github.com/kanytu/android-parallax-recyclerview) ⭐ 1,604 | 🐛 24 | 🌐 Java | 📅 2022-06-05 ★1460 - Android 视差 RecycleView
@@ -585,15 +585,15 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [SlidingCard](https://github.com/mxn21/SlidingCard) ⭐ 670 | 🐛 0 | 🌐 Java | 📅 2019-07-08 ★623 - 画廊效果的幻灯片卡片
 * [TinderStack](https://github.com/lawloretienne/TinderStack) ⭐ 668 | 🐛 4 | 🌐 Java | 📅 2020-10-01 ★536 - 一叠类似Tinder的卡片
 * [SwipeCardsView](https://github.com/huxq17/SwipeCardsView) ⭐ 544 | 🐛 19 | 🌐 Java | 📅 2020-06-08 ★370 - Android高仿秒拍热榜的卡片滑动和左右飞出效果
-* [CardView](https://github.com/vivian8725118/CardView) ⭐ 497 | 🐛 1 | 🌐 Java | 📅 2017-04-05 ★220 - 类似小票效果的卡片列表
+* [CardView](https://github.com/vivian8725118/CardView) ⭐ 496 | 🐛 1 | 🌐 Java | 📅 2017-04-05 ★220 - 类似小票效果的卡片列表
 * [StackCardsView](https://github.com/wensefu/StackCardsView) ⭐ 319 | 🐛 12 | 🌐 Java | 📅 2017-03-09 ★50 - 堆叠滑动控件
 * [SwipeCardsRecyclerView](https://github.com/yuyuyu123/SwipeCardsRecyclerView) ⭐ 24 | 🐛 0 | 🌐 Java | 📅 2016-12-18 ★22 - 基于RecyclerView的Android组件
 * [turncardlistview](https://github.com/czy1121/turncardlistview) ★33 - 上下翻页的卡片列表
 
 ## Color
 
-* [ColorPickerView](https://github.com/skydoves/ColorPickerView) ⭐ 1,719 | 🐛 8 | 🌐 Java | 📅 2026-10-28 ★290 - 从图片中获取颜色
-* [InstagramLikeColorTransitionAndroid](https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid) ⭐ 592 | 🐛 2 | 🌐 Java | 📅 2020-05-16 ★367 - 创建类似渐变颜色过渡的Instagram
+* [ColorPickerView](https://github.com/skydoves/ColorPickerView) ⭐ 1,716 | 🐛 8 | 🌐 Java | 📅 2026-11-05 ★290 - 从图片中获取颜色
+* [InstagramLikeColorTransitionAndroid](https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid) ⭐ 591 | 🐛 2 | 🌐 Java | 📅 2020-05-16 ★367 - 创建类似渐变颜色过渡的Instagram
 * [MaterialDesignColor](https://github.com/zzhoujay/MaterialDesignColor) ⭐ 344 | 🐛 0 | 🌐 Java | 📅 2016-03-09 ★281 - 谷歌官方MaterialDesign颜色代码
 * [colorpreference](https://github.com/kizitonwose/colorpreference) ⭐ 309 | 🐛 1 | 🌐 Java | 📅 2019-02-21 ★209 - 建立优秀的颜色选择器
 * [ColorPicker](https://github.com/DingMouRen/ColorPicker) ⭐ 182 | 🐛 4 | 🌐 Java | 📅 2019-07-08 ★79 - android取色器
@@ -602,8 +602,8 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## Drawable
 
-* [DividerDrawable](https://github.com/nekocode/DividerDrawable) ⭐ 443 | 🐛 0 | 🌐 Java | 📅 2017-05-18 ★376 - 在存在的View上布局和画分割线
-* [OneDrawable](https://github.com/maoruibin/OneDrawable) ⭐ 292 | 🐛 3 | 🌐 Java | 📅 2017-09-23 ★215 - 为View设置具有按下效果的背景
+* [DividerDrawable](https://github.com/nekocode/DividerDrawable) ⭐ 442 | 🐛 0 | 🌐 Java | 📅 2017-05-18 ★376 - 在存在的View上布局和画分割线
+* [OneDrawable](https://github.com/maoruibin/OneDrawable) ⭐ 291 | 🐛 3 | 🌐 Java | 📅 2017-09-23 ★215 - 为View设置具有按下效果的背景
 * [SelectorDrawable](https://github.com/yuanwenbing/SelectorDrawable) ⭐ 39 | 🐛 0 | 🌐 Java | 📅 2016-12-07 ★26 - 为按钮设置selector
 
 ## Spinner
@@ -619,17 +619,17 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) ⭐ 6,630 | 🐛 132 | 🌐 Java | 📅 2018-11-26 ★5164 - Android屏幕适配方案
 * [FlowLayout](https://github.com/hongyangAndroid/FlowLayout) ⭐ 5,567 | 🐛 114 | 🌐 Java | 📅 2019-10-13 ★2390 - Android流式布局
 * [DiagonalLayout](https://github.com/florent37/DiagonalLayout) ⚠️ Archived ★1860 - MD风格的新的样式和方法
-* [FlowLayoutManager](https://github.com/mcxtzhang/FlowLayoutManager) ⭐ 2,523 | 🐛 30 | 🌐 Java | 📅 2023-05-31 ★1152 - 利用自定义LayoutManager 的一些实战实例
-* [FlowLayout](https://github.com/nex3z/FlowLayout) ⭐ 2,423 | 🐛 0 | 🌐 Java | 📅 2025-05-29 ★952 - 让子视图自动浮动到下一行
+* [FlowLayoutManager](https://github.com/mcxtzhang/FlowLayoutManager) ⭐ 2,522 | 🐛 30 | 🌐 Java | 📅 2023-05-31 ★1152 - 利用自定义LayoutManager 的一些实战实例
+* [FlowLayout](https://github.com/nex3z/FlowLayout) ⭐ 2,422 | 🐛 0 | 🌐 Java | 📅 2025-05-29 ★952 - 让子视图自动浮动到下一行
 * [ExpandableLayout](https://github.com/cachapa/ExpandableLayout) ⭐ 2,396 | 🐛 9 | 🌐 Java | 📅 2021-02-08 ★818 - 实现动画扩展和子视图折叠
-* [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager) ⭐ 2,042 | 🐛 1 | 🌐 Java | 📅 2017-08-09 ★1477 - 扇形水平列表视图
+* [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager) ⭐ 2,041 | 🐛 1 | 🌐 Java | 📅 2017-08-09 ★1477 - 扇形水平列表视图
 * [smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout) ⭐ 1,746 | 🐛 39 | 🌐 Java | 📅 2017-09-09 ★1434 - 视图布局
 * [ExpandableLayout](https://github.com/AAkira/ExpandableLayout) ⭐ 1,653 | 🐛 66 | 🌐 Java | 📅 2017-12-15 ★1041 - 带有各种动画的扩展布局
 * [ArcLayout](https://github.com/florent37/ArcLayout) ⚠️ Archived ★864 - 使用ArcLayout探索新的MD风格的样式和方法
 * [TextLayoutBuilder](https://github.com/facebookincubator/TextLayoutBuilder) ⭐ 1,471 | 🐛 2 | 🌐 Kotlin | 📅 2026-11-02 ★1124 - Facebook出品的在Android中轻松实现文字布局
-* [FlexLayout](https://github.com/mmin18/FlexLayout) ⭐ 1,411 | 🐛 3 | 🌐 Java | 📅 2017-10-28 ★1377 - 强大的Android布局视图
+* [FlexLayout](https://github.com/mmin18/FlexLayout) ⭐ 1,410 | 🐛 3 | 🌐 Java | 📅 2017-10-28 ★1377 - 强大的Android布局视图
 * [FlowTag](https://github.com/hanhailong/FlowTag) ⭐ 890 | 🐛 21 | 🌐 Java | 📅 2017-06-22 ★579 - Android流式布局
-* [HiveLayoutManager](https://github.com/Chacojack/HiveLayoutManager) ⭐ 620 | 🐛 5 | 🌐 Java | 📅 2016-11-25 ★373 - 蜂巢布局管理器
+* [HiveLayoutManager](https://github.com/Chacojack/HiveLayoutManager) ⭐ 619 | 🐛 5 | 🌐 Java | 📅 2016-11-25 ★373 - 蜂巢布局管理器
 * [LiveLayout](https://github.com/Qiang3570/LiveLayout) ⭐ 576 | 🐛 7 | 🌐 Java | 📅 2018-06-07 ★227 - 关于直播布局与礼物特效的Demo
 * [ThreeDLayout](https://github.com/githubwing/ThreeDLayout) ⭐ 502 | 🐛 1 | 🌐 Java | 📅 2016-11-04 ★366 - 让任何view拥有3D效果
 * [ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout) ⭐ 485 | 🐛 15 | 🌐 Java | 📅 2019-02-24 ★414 - 节省空间的可扩展布局
@@ -642,14 +642,14 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 模糊效果
 
-* [Blurry](https://github.com/wasabeef/Blurry) ⭐ 5,648 | 🐛 86 | 🌐 Java | 📅 2023-04-27 ★2624 - Android简易模糊库
-* [BlurView](https://github.com/Dimezis/BlurView) ⭐ 4,075 | 🐛 10 | 🌐 Java | 📅 2026-10-25 ★1652 - Android底层视图动态仿iOS模糊
-* [blurkit-android](https://github.com/wonderkiln/blurkit-android) ⭐ 3,758 | 🐛 38 | 🌐 Java | 📅 2021-04-03 ★1992 - 类似iOS上的实时模糊效果
-* [Android StackBlur](https://github.com/kikoso/android-stackblur) ⭐ 3,563 | 🐛 13 | 🌐 Java | 📅 2023-05-28 ★2784 - 图片模糊效果
-* [RealtimeBlurView](https://github.com/mmin18/RealtimeBlurView) ⭐ 3,309 | 🐛 36 | 🌐 Java | 📅 2023-12-05 ★938 - 仿UIVisualEffectView实时模糊覆盖
-* [500px-android-blur](https://github.com/500px/500px-android-blur) ⭐ 2,687 | 🐛 25 | 🌐 Java | 📅 2020-04-20 ★1966 - Android模糊视图
+* [Blurry](https://github.com/wasabeef/Blurry) ⭐ 5,646 | 🐛 86 | 🌐 Java | 📅 2023-04-27 ★2624 - Android简易模糊库
+* [BlurView](https://github.com/Dimezis/BlurView) ⭐ 4,074 | 🐛 10 | 🌐 Java | 📅 2026-10-25 ★1652 - Android底层视图动态仿iOS模糊
+* [blurkit-android](https://github.com/wonderkiln/blurkit-android) ⭐ 3,757 | 🐛 38 | 🌐 Java | 📅 2021-04-03 ★1992 - 类似iOS上的实时模糊效果
+* [Android StackBlur](https://github.com/kikoso/android-stackblur) ⭐ 3,561 | 🐛 13 | 🌐 Java | 📅 2023-05-28 ★2784 - 图片模糊效果
+* [RealtimeBlurView](https://github.com/mmin18/RealtimeBlurView) ⭐ 3,308 | 🐛 36 | 🌐 Java | 📅 2023-12-05 ★938 - 仿UIVisualEffectView实时模糊覆盖
+* [500px-android-blur](https://github.com/500px/500px-android-blur) ⭐ 2,686 | 🐛 25 | 🌐 Java | 📅 2020-04-20 ★1966 - Android模糊视图
 * [ImageBlurring](https://github.com/qiujuer/ImageBlurring) ⭐ 1,458 | 🐛 1 | 🌐 Java | 📅 2017-02-21 ★1104 - 通过 Java 与 JNI 分别进行图片模糊
-* [Dali](https://github.com/patrickfav/Dali) ⭐ 1,051 | 🐛 13 | 🌐 Java | 📅 2023-03-31 ★787 - Android图像模糊库
+* [Dali](https://github.com/patrickfav/Dali) ⭐ 1,050 | 🐛 13 | 🌐 Java | 📅 2023-03-31 ★787 - Android图像模糊库
 * [BlurLockView](https://github.com/Nightonke/BlurLockView) ⭐ 1,030 | 🐛 18 | 🌐 Java | 📅 2017-03-03 ★857 - 毛玻璃效果的解锁界面
 * [BlurredView](https://github.com/wl9739/BlurredView) ⚠️ Archived ★857 - Android图片视图动态模糊
 * [EtsyBlur](https://github.com/Manabu-GT/EtsyBlur) ⚠️ Archived ★514 - 在Etsy应用添加仿玻璃模糊效果
@@ -674,18 +674,18 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## 选择器(Picker)
 
 * [Android-PickerView](https://github.com/saiwu-bigkoo/Android-PickerView) ⭐ 13,414 | 🐛 436 | 🌐 Java | 📅 2022-12-30 ★4321 - 精仿iOS的PickerView控件
-* [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) ⭐ 6,783 | 🐛 195 | 🌐 Java | 📅 2026-03-21 ★2207 - 安卓选择器类库
-* [CityPicker](https://github.com/zaaach/CityPicker) ⭐ 3,121 | 🐛 44 | 🌐 Java | 📅 2021-07-07 ★955 - 仿美团等选择城市列表demo
+* [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) ⭐ 6,782 | 🐛 195 | 🌐 Java | 📅 2026-03-21 ★2207 - 安卓选择器类库
+* [CityPicker](https://github.com/zaaach/CityPicker) ⭐ 3,120 | 🐛 44 | 🌐 Java | 📅 2021-07-07 ★955 - 仿美团等选择城市列表demo
 * [Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker) ⭐ 2,696 | 🐛 93 | 🌐 Kotlin | 📅 2023-08-27 ★1103 - 灵活选择图片和视频的文件选择器
 * [android-betterpickers](https://github.com/code-troopers/android-betterpickers) ⚠️ Archived ★2488 - 选择器DialogFragments库
-* [SublimePicker](https://github.com/vikramkakkar/SublimePicker) ⭐ 2,290 | 🐛 65 | 🌐 Java | 📅 2023-01-14 ★1795 - 提供选择器的自定义视图
+* [SublimePicker](https://github.com/vikramkakkar/SublimePicker) ⭐ 2,288 | 🐛 65 | 🌐 Java | 📅 2023-01-14 ★1795 - 提供选择器的自定义视图
 * [TimePickerDialog](https://github.com/JZXiang/TimePickerDialog) ⭐ 1,717 | 🐛 27 | 🌐 Java | 📅 2017-08-30 ★1031 - Android时间选择器
-* [MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker) ⭐ 1,390 | 🐛 48 | 🌐 Java | 📅 2021-01-23 ★769 - 轻量级Android文件选择库
-* [android-pickers](https://github.com/addappcn/android-pickers) ⭐ 1,305 | 🐛 11 | 🌐 Java | 📅 2020-01-31 ★303 - 安卓选择器类库
+* [MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker) ⭐ 1,389 | 🐛 48 | 🌐 Java | 📅 2021-01-23 ★769 - 轻量级Android文件选择库
+* [android-pickers](https://github.com/addappcn/android-pickers) ⭐ 1,303 | 🐛 11 | 🌐 Java | 📅 2020-01-31 ★303 - 安卓选择器类库
 * [NumberPickerView](https://github.com/Carbs0126/NumberPickerView) ⭐ 1,171 | 🐛 27 | 🌐 Java | 📅 2021-07-09 ★652 - 灵活的安卓NumberPicker组件
 * [LFilePicker](https://github.com/leonHua/LFilePicker) ⭐ 1,098 | 🐛 39 | 🌐 Java | 📅 2023-09-23 ★178 - 轻量级的文件选择器
 * [PickView](https://github.com/brucetoo/PickView) ⭐ 1,092 | 🐛 26 | 🌐 Java | 📅 2022-01-04 ★814 - 选择日期或者省份的辅助库
-* [BottomSheetPickers](https://github.com/philliphsu/BottomSheetPickers) ⭐ 1,088 | 🐛 19 | 🌐 Java | 📅 2019-07-02 ★843 - ndroid的新的数据和时间选择器库
+* [BottomSheetPickers](https://github.com/philliphsu/BottomSheetPickers) ⭐ 1,087 | 🐛 19 | 🌐 Java | 📅 2019-07-02 ★843 - ndroid的新的数据和时间选择器库
 * [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker) ⚠️ Archived ★294 - 在一个部件内选择一个数据和一个时间
 * [CharacterPickerView](https://github.com/ImKarl/CharacterPickerView) ⭐ 734 | 🐛 0 | 🌐 Java | 📅 2019-12-26 ★626 - 仿iOS的PickerView控件
 * [CarouselPicker](https://github.com/GoodieBag/CarouselPicker) ⭐ 703 | 🐛 24 | 🌐 Java | 📅 2023-11-28 ★475 - 轮播图选择器
@@ -709,7 +709,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## 跑马灯
 
 * [MarqueeView](https://github.com/sfsheng0322/MarqueeView) ⭐ 3,775 | 🐛 44 | 🌐 Java | 📅 2020-11-11 ★1635 - 垂直翻页公告
-* [MarqueeViewDemo](https://github.com/gongwen/MarqueeViewDemo) ⭐ 2,385 | 🐛 26 | 🌐 Java | 📅 2025-06-07 ★951 - 跑马灯View
+* [MarqueeViewDemo](https://github.com/gongwen/MarqueeViewDemo) ⭐ 2,383 | 🐛 26 | 🌐 Java | 📅 2025-06-07 ★951 - 跑马灯View
 * [MarqueeLayoutLibrary](https://github.com/oubowu/MarqueeLayoutLibrary) ⭐ 514 | 🐛 4 | 🌐 Java | 📅 2018-04-03 ★395 - 支持四个方向循环滚动的自定义控件
 * [VerticalBannerView](https://github.com/guojunustb/VerticalBannerView) ⭐ 435 | 🐛 0 | 🌐 Java | 📅 2016-10-20 ★211 - 安卓自定义控件
 * [noticeview](https://github.com/czy1121/noticeview) ⚠️ Archived ★257 - 滚动播放的公告控件
@@ -720,27 +720,27 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 * [CalendarView](https://github.com/huanghaibin-dev/CalendarView) ⭐ 9,418 | 🐛 458 | 🌐 Java | 📅 2025-12-04 ★117 - 优雅且性能高效的日历控件
 * [material-calendarview](https://github.com/prolificinteractive/material-calendarview) ⭐ 5,892 | 🐛 252 | 🌐 Java | 📅 2023-05-28 ★2944 - MD风格的日历视图
-* [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) ⭐ 4,620 | 🐛 110 | 🌐 Java | 📅 2022-08-23 ★2540 - MD风格日期时间选择器
+* [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) ⭐ 4,618 | 🐛 110 | 🌐 Java | 📅 2022-08-23 ★2540 - MD风格日期时间选择器
 * [android-times-square](https://github.com/square/android-times-square) ⚠️ Archived ★3764 - 从日历视图选择一个单独日期
-* [Android-Week-View](https://github.com/alamkanak/Android-Week-View) ⭐ 3,439 | 🐛 199 | 🌐 Java | 📅 2024-05-30 ★2390 - 在Android应用中显示日历
+* [Android-Week-View](https://github.com/alamkanak/Android-Week-View) ⭐ 3,440 | 🐛 199 | 🌐 Java | 📅 2024-05-30 ★2390 - 在Android应用中显示日历
 * [CountdownView](https://github.com/iwgang/CountdownView) ⭐ 2,892 | 🐛 26 | 🌐 Java | 📅 2021-10-08 ★1327 - 安卓倒计时控件
 * [TimePickerDialog](https://github.com/JZXiang/TimePickerDialog) ⭐ 1,717 | 🐛 27 | 🌐 Java | 📅 2017-08-30 ★1031 - Android时间选择器
 * [CompactCalendarView](https://github.com/SundeepK/CompactCalendarView) ⭐ 1,517 | 🐛 165 | 🌐 Java | 📅 2024-03-22 ★967 - 简单的日历视图
 * [Caldroid](https://github.com/roomorama/Caldroid) ⭐ 1,393 | 🐛 132 | 🌐 Java | 📅 2021-07-09 ★1289 - 以月为单位的日历控件
-* [MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker) ⭐ 1,315 | 🐛 14 | 🌐 Java | 📅 2020-05-13 ★860 - 日期选择控件库
+* [MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker) ⭐ 1,314 | 🐛 14 | 🌐 Java | 📅 2020-05-13 ★860 - 日期选择控件库
 * [AgendaCalendarView](https://github.com/Tibolte/AgendaCalendarView) ⭐ 1,233 | 🐛 115 | 🌐 Java | 📅 2018-10-08 ★944 - 仿Outloo和Google日历
 * [HorizontalCalendar](https://github.com/Mulham-Raee/HorizontalCalendar) ⭐ 1,206 | 🐛 73 | 🌐 Java | 📅 2020-07-15 ★527 - MD风格的水平日历视图
-* [BottomSheetPickers](https://github.com/philliphsu/BottomSheetPickers) ⭐ 1,088 | 🐛 19 | 🌐 Java | 📅 2019-07-02 ★843 - ndroid的新的数据和时间选择器库
+* [BottomSheetPickers](https://github.com/philliphsu/BottomSheetPickers) ⭐ 1,087 | 🐛 19 | 🌐 Java | 📅 2019-07-02 ★843 - ndroid的新的数据和时间选择器库
 * [CalendarExaple](https://github.com/codbking/CalendarExaple) ⭐ 1,084 | 🐛 25 | 🌐 Java | 📅 2016-12-26 ★503 - 高仿钉钉和小米的日历控件
 * [CalendarListView](https://github.com/Kelin-Hong/CalendarListView) ⭐ 1,064 | 🐛 10 | 🌐 Java | 📅 2017-11-29 ★766 - 可互动的ListView+CalendarView
 * [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker) ⚠️ Archived ★294 - 在一个部件内选择一个数据和一个时间
 * [WeekCalendar](https://github.com/nomanr/WeekCalendar) ⚠️ Archived ★564 - 提供星期日历的库
 * [EasyCalendar](https://github.com/shichaohui/EasyCalendar) ⭐ 594 | 🐛 6 | 🌐 Java | 📅 2017-10-27 ★379 - 快捷自定义日历UI
 * [android-calendar-view](https://github.com/myjoybar/android-calendar-view) ⭐ 434 | 🐛 4 | 🌐 Java | 📅 2019-02-09 ★332 - 易扩展的andorid日历控件库
-* [TimerView](https://github.com/fashare2015/TimerView) ⭐ 388 | 🐛 1 | 🌐 Java | 📅 2017-03-22 ★314 - 解耦良好的计时控件
+* [TimerView](https://github.com/fashare2015/TimerView) ⭐ 387 | 🐛 1 | 🌐 Java | 📅 2017-03-22 ★314 - 解耦良好的计时控件
 * [CalendarView](https://github.com/henry-newbie/CalendarView) ⭐ 384 | 🐛 23 | 🌐 Java | 📅 2017-03-10 ★211 - 高度定制的日期选择器
 * [Android-SwitchDateTimePicker](https://github.com/Kunzisoft/Android-SwitchDateTimePicker) ⭐ 384 | 🐛 10 | 🌐 Java | 📅 2021-09-07 ★97 - 日期时间选择器库
-* [MiClockView](https://github.com/MonkeyMushroom/MiClockView) ⭐ 383 | 🐛 3 | 🌐 Java | 📅 2021-02-16 ★194 - 高仿小米时钟
+* [MiClockView](https://github.com/MonkeyMushroom/MiClockView) ⭐ 382 | 🐛 3 | 🌐 Java | 📅 2021-02-16 ★194 - 高仿小米时钟
 * [Cadar](https://github.com/memfis19/Cadar) ⭐ 359 | 🐛 6 | 🌐 Java | 📅 2017-08-09 ★314 - 可以显示事件的日历视图
 * [GregorianLunarCalendar](https://github.com/Carbs0126/GregorianLunarCalendar) ⭐ 277 | 🐛 5 | 🌐 Java | 📅 2021-12-29 ★160 - 农历+公历的日期选择模式
 * [MNCalendar](https://github.com/maning0303/MNCalendar) ⭐ 267 | 🐛 8 | 🌐 Java | 📅 2017-11-23 ★100 - 一个简单的日历控件
@@ -751,14 +751,14 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [week-month-Calendar](https://github.com/afinal/week-month-Calendar) ⭐ 106 | 🐛 1 | 🌐 Java | 📅 2016-11-18 ★75 - 周月切换的日历
 * [Android-CalendarView-master](https://github.com/wenzhihao123/Android-CalendarView-master) ⭐ 99 | 🐛 0 | 🌐 Java | 📅 2017-04-16 ★30 - Android自定义日历日期选择控件
 * [WeekViewSwipeable](https://github.com/Yuncun/WeekViewSwipeable) ⭐ 77 | 🐛 1 | 🌐 Java | 📅 2017-01-16 ★62 - 以周格式显示数据的Android视图
-* [TimelyView](https://github.com/iballan/TimelyView) ⭐ 74 | 🐛 0 | 🌐 Java | 📅 2016-11-30 ★42 - 时间动画视图
+* [TimelyView](https://github.com/iballan/TimelyView) ⭐ 73 | 🐛 0 | 🌐 Java | 📅 2016-11-30 ★42 - 时间动画视图
 * [DateRangePicker](https://github.com/MedAmineTazarki/DateRangePicker) ⭐ 64 | 🐛 1 | 🌐 Java | 📅 2016-12-01 ★50 - 带数据选择器的Dialogo fragment
 * [NubiaTimer](https://github.com/jiefly/NubiaTimer) ⭐ 45 | 🐛 0 | 🌐 Java | 📅 2016-09-11 ★36 - 高仿Nubia 定时器的自定义view
 
 ## 主题样式
 
 * [Android-skin-support](https://github.com/ximsfei/Android-skin-support) ⭐ 6,508 | 🐛 103 | 🌐 Java | 📅 2020-09-03 ★1619 - 用心的Android 换肤框架
-* [MagicaSakura](https://github.com/Bilibili/MagicaSakura) ⭐ 3,523 | 🐛 25 | 🌐 Java | 📅 2022-02-16 ★1931 - Android多主题库
+* [MagicaSakura](https://github.com/Bilibili/MagicaSakura) ⭐ 3,522 | 🐛 25 | 🌐 Java | 📅 2022-02-16 ★1931 - Android多主题库
 * [Colorful](https://github.com/garretyoder/Colorful) ⚠️ Archived ★1523 - 轻松改变app的配色方案
 * [aesthetic](https://github.com/afollestad/aesthetic) ⚠️ Archived ★994 - 一个快速容易的即插即用的动态主题引擎
 * [ThemeSkinning](https://github.com/burgessjp/ThemeSkinning) ⭐ 873 | 🐛 14 | 🌐 Java | 📅 2019-06-16 ★273 - Android 主题换肤的开源库
@@ -771,20 +771,20 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## ImageView
 
-* [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) ⭐ 8,011 | 🐛 49 | 🌐 Java | 📅 2024-04-22 ★2964 - 安卓自定义图片视图
+* [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) ⭐ 8,010 | 🐛 49 | 🌐 Java | 📅 2024-04-22 ★2964 - 安卓自定义图片视图
 * [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) ⚠️ Archived ★3976 - 支持圆角的快速ImageView。
-* [ShadowImageView](https://github.com/yingLanNull/ShadowImageView) ⭐ 2,614 | 🐛 8 | 🌐 Java | 📅 2018-05-23 ★965 - 更加细腻的阴影效果
-* [LargeImage](https://github.com/LuckyJayce/LargeImage) ⭐ 2,333 | 🐛 48 | 🌐 Java | 📅 2019-03-23 ★1067 - Android加载大图
-* [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView) ⭐ 2,162 | 🐛 9 | 🌐 Java | 📅 2022-07-21 ★1526 - 可以随设备旋转自动滚动的imageView
+* [ShadowImageView](https://github.com/yingLanNull/ShadowImageView) ⭐ 2,613 | 🐛 8 | 🌐 Java | 📅 2018-05-23 ★965 - 更加细腻的阴影效果
+* [LargeImage](https://github.com/LuckyJayce/LargeImage) ⭐ 2,332 | 🐛 48 | 🌐 Java | 📅 2019-03-23 ★1067 - Android加载大图
+* [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView) ⭐ 2,161 | 🐛 9 | 🌐 Java | 📅 2022-07-21 ★1526 - 可以随设备旋转自动滚动的imageView
 * [CircularImageView](https://github.com/lopspower/CircularImageView) ⭐ 1,959 | 🐛 13 | 🌐 Kotlin | 📅 2022-10-11 ★895 - 以简单的方法实现环形ImageView
 * [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer) ⭐ 1,806 | 🐛 38 | 🌐 Java | 📅 2022-09-21 ★1159 - 简单的自定义全屏图片视图
 * [PaletteImageView](https://github.com/DingMouRen/PaletteImageView) ⭐ 1,761 | 🐛 23 | 🌐 Java | 📅 2023-10-16 ★404 - 动态提取图片的主要颜色
 * [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView) ⭐ 1,606 | 🐛 17 | 🌐 Java | 📅 2021-07-18 ★1412 - 自定义使用SVG和填充图的ImageView
-* [DragPhotoView](https://github.com/githubwing/DragPhotoView) ⭐ 1,597 | 🐛 13 | 🌐 Java | 📅 2017-05-12 ★871 - 高仿微信可拖拽返回PhotoView
+* [DragPhotoView](https://github.com/githubwing/DragPhotoView) ⭐ 1,596 | 🐛 13 | 🌐 Java | 📅 2017-05-12 ★871 - 高仿微信可拖拽返回PhotoView
 * [NineGridImageView](https://github.com/laobie/NineGridImageView) ⭐ 1,430 | 🐛 31 | 🌐 Java | 📅 2019-04-15 ★876 - 仿微信朋友圈或微博的九宫格图片
 * [Crescento](https://github.com/developer-shivam/Crescento) ⭐ 1,263 | 🐛 9 | 🌐 Java | 📅 2018-10-01 ★902 - 图像视图和相关布局的下面添加曲线
 * [Oblique](https://github.com/akshay2211/Oblique) ⭐ 645 | 🐛 4 | 🌐 Java | 📅 2023-01-17 ★414 - 探索新的显示图片样式
-* [ImageTransition](https://github.com/vikramkakkar/ImageTransition) ⭐ 633 | 🐛 6 | 🌐 Java | 📅 2016-10-18 ★561 - Activity视图过渡
+* [ImageTransition](https://github.com/vikramkakkar/ImageTransition) ⭐ 632 | 🐛 6 | 🌐 Java | 📅 2016-10-18 ★561 - Activity视图过渡
 * [CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) ⭐ 611 | 🐛 2 | 🌐 Java | 📅 2018-01-23 ★504 - 生成验证码图片的自定义ImageView
 * [android-combination-avatar](https://github.com/kongnanlive/android-combination-avatar) ⭐ 565 | 🐛 3 | 🌐 Java | 📅 2017-04-09 ★503 - 模仿QQ讨论组组合头像
 * [ScrollParallaxImageView](https://github.com/gjiazhe/ScrollParallaxImageView) ⭐ 543 | 🐛 4 | 🌐 Java | 📅 2016-12-23 ★402 - 滚动视差效果
@@ -792,7 +792,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [Frisson](https://github.com/IntruderShanky/Frisson) ⭐ 396 | 🐛 3 | 🌐 Java | 📅 2019-02-18 ★320 - 在图片上提供时髦的剪裁
 * [Diagonalify](https://github.com/developer-shivam/Diagonalify) ⭐ 346 | 🐛 2 | 🌐 Java | 📅 2017-11-21 ★283 - 创建图像视图的对角线切割
 * [avatar-view](https://github.com/TangoAgency/avatar-view) ⭐ 306 | 🐛 19 | 🌐 Java | 📅 2018-12-13 ★208 - 带有用户名字的第一个字母的图片视图
-* [AnchorImageView](https://github.com/jcodeing/AnchorImageView) ⭐ 291 | 🐛 0 | 🌐 Java | 📅 2017-01-16 ★197 - Android锚点定位ImageView
+* [AnchorImageView](https://github.com/jcodeing/AnchorImageView) ⭐ 290 | 🐛 0 | 🌐 Java | 📅 2017-01-16 ★197 - Android锚点定位ImageView
 * [SImageView](https://github.com/suzeyu1992/SImageView) ⭐ 228 | 🐛 6 | 🌐 Java | 📅 2017-05-08 ★121 - 设置一个网址即可显示图片的控件
 * [Wiv](https://github.com/ihsanbal/Wiv) ⭐ 195 | 🐛 2 | 🌐 Java | 📅 2017-06-02 ★160 - 窗口图片显示器
 * [CircleImageView](https://github.com/zuoweitan/CircleImageView) ⭐ 171 | 🐛 3 | 🌐 Java | 📅 2018-11-13 ★167 - 环形ImageView
@@ -805,7 +805,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 通知
 
-* [Alerter](https://github.com/Tapadoo/Alerter) ⭐ 5,501 | 🐛 49 | 🌐 Kotlin | 📅 2023-07-21 ★2816 - 克服Toast和Snackbar的限制
+* [Alerter](https://github.com/Tapadoo/Alerter) ⭐ 5,500 | 🐛 49 | 🌐 Kotlin | 📅 2023-07-21 ★2816 - 克服Toast和Snackbar的限制
 * [NotifyUtil](https://github.com/wenmingvs/NotifyUtil) ⭐ 1,664 | 🐛 13 | 🌐 Java | 📅 2022-09-09 ★947 - 高仿淘宝微信等热门APP通知视图
 * [Pugnotification](https://github.com/halysongoncalves/Pugnotification) ⭐ 850 | 🐛 37 | 🌐 Java | 📅 2024-06-08 ★691 - 通过一行代码实现通知功能
 * [NotifyUtil](https://github.com/hss01248/NotifyUtil) ⭐ 278 | 🐛 2 | 🌐 Java | 📅 2022-07-06 ★140 - notification工具类
@@ -832,18 +832,18 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 引导图(Intro)
 
-* [AppIntro](https://github.com/PaoloRotolo/AppIntro) ⭐ 10,567 | 🐛 42 | 🌐 Kotlin | 📅 2026-10-29 ★6281 - 制作一个很酷的app介绍页
+* [AppIntro](https://github.com/PaoloRotolo/AppIntro) ⭐ 10,566 | 🐛 42 | 🌐 Kotlin | 📅 2026-11-06 ★6281 - 制作一个很酷的app介绍页
 * [ShowcaseView](https://github.com/amlcurran/ShowcaseView) ⚠️ Archived ★4788 - 向用户突出app的特定部分
 * [GuideView](https://github.com/binIoter/GuideView) ⭐ 3,941 | 🐛 27 | 🌐 Java | 📅 2023-05-28 ★1724 - 创建遮罩式导航页
 * [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) ⭐ 2,723 | 🐛 10 | 🌐 Java | 📅 2017-04-06 ★1949 - 优化App介绍/引导页面
 * [material-intro-screen](https://github.com/TangoAgency/material-intro-screen) ⭐ 2,687 | 🐛 57 | 🌐 Java | 📅 2020-09-19 ★1882 - MD风格的介绍页面
-* [paper-onboarding-android](https://github.com/Ramotion/paper-onboarding-android) ⭐ 2,538 | 🐛 10 | 🌐 Java | 📅 2022-08-25 ★1340 - MD风格的onboarding
+* [paper-onboarding-android](https://github.com/Ramotion/paper-onboarding-android) ⭐ 2,537 | 🐛 10 | 🌐 Java | 📅 2022-08-25 ★1340 - MD风格的onboarding
 * [FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView) ⭐ 1,999 | 🐛 8 | 🌐 Kotlin | 📅 2025-11-15 ★740 - 易于使用的自定义显示案例视图
 * [Onboarding](https://github.com/eoinfogarty/Onboarding) ⭐ 1,469 | 🐛 3 | 🌐 Java | 📅 2016-08-17 ★1402 - 以一种漂亮的方式向用户介绍应用
 * [ahoy-onboarding](https://github.com/codemybrainsout/ahoy-onboarding) ⭐ 978 | 🐛 20 | 🌐 Java | 📅 2019-10-16 ★528 - 可自定义背景的引导页面
 * [MaterialIntroTutorial](https://github.com/riggaroo/MaterialIntroTutorial) ⚠️ Archived ★769 - MD风格介绍导航
 * [UserGuideView](https://github.com/yilylong/UserGuideView) ⭐ 683 | 🐛 4 | 🌐 Java | 📅 2025-02-24 ★205 - 用户指引view
-* [Material-ViewPagerIndicator](https://github.com/ronaldsmartin/Material-ViewPagerIndicator) ⭐ 508 | 🐛 10 | 🌐 Java | 📅 2020-02-20 ★338 - 超级简单的页面指示器
+* [Material-ViewPagerIndicator](https://github.com/ronaldsmartin/Material-ViewPagerIndicator) ⭐ 507 | 🐛 10 | 🌐 Java | 📅 2020-02-20 ★338 - 超级简单的页面指示器
 * [HighLightGuideView](https://github.com/jaydenxiao2016/HighLightGuideView) ⭐ 463 | 🐛 5 | 🌐 Java | 📅 2016-08-18 ★359 - 用于 app 新功能高亮引导的库
 * [Vertical-Intro](https://github.com/armcha/Vertical-Intro) ⭐ 317 | 🐛 1 | 🌐 Java | 📅 2017-12-28 ★243 - 在你的应用程序中整合material vertical
 * [StepDialog](https://github.com/guangzq/StepDialog) ⭐ 202 | 🐛 0 | 🌐 Java | 📅 2017-06-30 ★125 - ofo应用首次注册时的步骤控件
@@ -852,36 +852,36 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 图片
 
-* [glide](https://github.com/bumptech/glide) ⭐ 35,010 | 🐛 677 | 🌐 Java | 📅 2026-11-03 ★15851 - 媒体管理和图片加载框架
-* [PhotoView](https://github.com/chrisbanes/PhotoView) ⭐ 18,791 | 🐛 232 | 🌐 Java | 📅 2022-03-25 ★10275 - 简单可用的放大安卓ImageView实现
-* [picasso](https://github.com/square/picasso) ⭐ 18,761 | 🐛 211 | 🌐 Kotlin | 📅 2024-11-06 ★13542 - 安卓图片缓存库
-* [fresco](https://github.com/facebook/fresco) ⭐ 17,161 | 🐛 265 | 🌐 Kotlin | 📅 2026-11-05 ★12823 - 在Android应用中显示图片
-* [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) ⭐ 16,789 | 🐛 459 | 🌐 Java | 📅 2024-08-15 ★15309 - 异步图像加载程序
+* [glide](https://github.com/bumptech/glide) ⭐ 35,010 | 🐛 679 | 🌐 Java | 📅 2026-11-06 ★15851 - 媒体管理和图片加载框架
+* [PhotoView](https://github.com/chrisbanes/PhotoView) ⭐ 18,790 | 🐛 232 | 🌐 Java | 📅 2022-03-25 ★10275 - 简单可用的放大安卓ImageView实现
+* [picasso](https://github.com/square/picasso) ⭐ 18,762 | 🐛 211 | 🌐 Kotlin | 📅 2024-11-06 ★13542 - 安卓图片缓存库
+* [fresco](https://github.com/facebook/fresco) ⭐ 17,160 | 🐛 265 | 🌐 Kotlin | 📅 2026-11-06 ★12823 - 在Android应用中显示图片
+* [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) ⭐ 16,792 | 🐛 459 | 🌐 Java | 📅 2024-08-15 ★15309 - 异步图像加载程序
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) ⭐ 14,465 | 🐛 7 | 🌐 Java | 📅 2024-05-03 ★7172 - 圆形介绍头像
-* [PictureSelector](https://github.com/LuckSiege/PictureSelector) ⭐ 13,580 | 🐛 584 | 🌐 Java | 📅 2024-05-11 ★1537 - 多图选择上传
-* [Matisse](https://github.com/zhihu/Matisse) ⭐ 12,492 | 🐛 464 | 🌐 Java | 📅 2023-05-15 ★3015 - Android本地图像选择器
+* [PictureSelector](https://github.com/LuckSiege/PictureSelector) ⭐ 13,577 | 🐛 584 | 🌐 Java | 📅 2024-05-11 ★1537 - 多图选择上传
+* [Matisse](https://github.com/zhihu/Matisse) ⭐ 12,491 | 🐛 464 | 🌐 Java | 📅 2023-05-15 ★3015 - Android本地图像选择器
 * [uCrop](https://github.com/Yalantis/uCrop) ⭐ 12,078 | 🐛 351 | 🌐 Java | 📅 2025-08-07 ★5243 - 极限且灵活的图像裁剪体验
-* [glide-transformations](https://github.com/wasabeef/glide-transformations) ⭐ 9,873 | 🐛 57 | 🌐 Java | 📅 2022-03-08 ★3803 - 图像转换类库
-* [TakePhoto](https://github.com/crazycodeboy/TakePhoto) ⭐ 7,208 | 🐛 423 | 🌐 Java | 📅 2019-08-26 ★2896 - Android设备上获取裁剪压缩图片
+* [glide-transformations](https://github.com/wasabeef/glide-transformations) ⭐ 9,872 | 🐛 57 | 🌐 Java | 📅 2022-03-08 ★3803 - 图像转换类库
+* [TakePhoto](https://github.com/crazycodeboy/TakePhoto) ⭐ 7,206 | 🐛 423 | 🌐 Java | 📅 2019-08-26 ★2896 - Android设备上获取裁剪压缩图片
 * [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) ⭐ 6,406 | 🐛 364 | 🌐 Java | 📅 2023-09-17 ★2362 - Android图片裁剪库
 * [android-crop](https://github.com/jdamcd/android-crop) ⚠️ Archived ★3602 - 简单的图片裁剪功能的Android库项目
 * [ImagePicker](https://github.com/jeasonlzy/ImagePicker) ⭐ 4,296 | 🐛 172 | 🌐 Java | 📅 2020-10-27 ★1696 - Android仿微信UI自定义相册
-* [BigImageViewer](https://github.com/Piasy/BigImageViewer) ⭐ 3,981 | 🐛 39 | 🌐 Java | 📅 2022-12-12 ★1664 - 支持平移和缩放的大图像缩放器
-* [boxing](https://github.com/Bilibili/boxing) ⭐ 3,164 | 🐛 33 | 🌐 Java | 📅 2019-05-15 ★1772 - 基于MVP模式的Android多媒体选择器
+* [BigImageViewer](https://github.com/Piasy/BigImageViewer) ⭐ 3,980 | 🐛 39 | 🌐 Java | 📅 2022-12-12 ★1664 - 支持平移和缩放的大图像缩放器
+* [boxing](https://github.com/Bilibili/boxing) ⭐ 3,163 | 🐛 33 | 🌐 Java | 📅 2019-05-15 ★1772 - 基于MVP模式的Android多媒体选择器
 * [MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector) ⭐ 2,933 | 🐛 98 | 🌐 Java | 📅 2020-05-06 ★2325 - 仿微信实现多图选择
-* [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal) ⭐ 2,814 | 🐛 151 | 🌐 Java | 📅 2022-03-12 ★1115 - android图片/视频文件选择器
+* [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal) ⭐ 2,813 | 🐛 151 | 🌐 Java | 📅 2022-03-12 ★1115 - android图片/视频文件选择器
 * [PhotoPicker](https://github.com/donglua/PhotoPicker) ⭐ 2,804 | 🐛 116 | 🌐 Java | 📅 2023-12-19 ★1905 - 仿Wechat图片选择器
-* [KenBurnsView](https://github.com/flavioarfaria/KenBurnsView) ⭐ 2,718 | 🐛 12 | 🌐 Java | 📅 2022-08-26 ★1761 - 身临其境的动画拖拽
+* [KenBurnsView](https://github.com/flavioarfaria/KenBurnsView) ⭐ 2,716 | 🐛 12 | 🌐 Java | 📅 2022-08-26 ★1761 - 身临其境的动画拖拽
 * [TransferImage](https://github.com/Hitomis/TransferImage) ⭐ 2,716 | 🐛 30 | 🌐 Java | 📅 2022-10-19 ★1051 - 仿qq 点击缩略图后预览高清图
-* [Tiny](https://github.com/Sunzxyong/Tiny) ⭐ 2,628 | 🐛 64 | 🌐 C | 📅 2020-10-07 ★1307 - 图像压缩框架
-* [PhotoView](https://github.com/bm-x/PhotoView) ⭐ 2,619 | 🐛 94 | 🌐 Java | 📅 2021-10-14 ★1296 - 图片浏览缩放控件
+* [Tiny](https://github.com/Sunzxyong/Tiny) ⭐ 2,627 | 🐛 64 | 🌐 C | 📅 2020-10-07 ★1307 - 图像压缩框架
+* [PhotoView](https://github.com/bm-x/PhotoView) ⭐ 2,618 | 🐛 94 | 🌐 Java | 📅 2021-10-14 ★1296 - 图片浏览缩放控件
 * [AndroidPhotoFilters](https://github.com/Zomato/AndroidPhotoFilters) ⭐ 2,517 | 🐛 41 | 🌐 Java | 📅 2023-07-18 ★1644 - 快速强大灵活的图片处理器
-* [album](https://github.com/yanzhenjie/album) ⭐ 2,489 | 🐛 133 | 🌐 Java | 📅 2022-08-25 ★857 - Android轻量级相册
+* [album](https://github.com/yanzhenjie/album) ⭐ 2,488 | 🐛 133 | 🌐 Java | 📅 2022-08-25 ★857 - Android轻量级相册
 * [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView) ⭐ 2,477 | 🐛 79 | 🌐 Java | 📅 2024-03-05 ★1640 - Android图片裁剪库
 * [NineGridView](https://github.com/jeasonlzy/NineGridView) ⭐ 2,456 | 🐛 65 | 🌐 Java | 📅 2018-02-24 ★886 - 展示图片的九宫格控件
 * [ImageEditor-Android](https://github.com/siwangqishiq/ImageEditor-Android) ⭐ 2,274 | 🐛 23 | 🌐 Java | 📅 2025-08-18 ★688 - 编辑图片
 * [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android) ⭐ 2,243 | 🐛 90 | 🌐 Java | 📅 2026-07-11 ★771 - Android图片选择
-* [cropiwa](https://github.com/steelkiwi/cropiwa) ⭐ 2,220 | 🐛 46 | 🌐 Java | 📅 2023-11-09 ★1363 - 实现图片剪裁的多配置部件
+* [cropiwa](https://github.com/steelkiwi/cropiwa) ⭐ 2,218 | 🐛 46 | 🌐 Java | 📅 2023-11-09 ★1363 - 实现图片剪裁的多配置部件
 * [PinchImageView](https://github.com/boycy815/PinchImageView) ⭐ 1,956 | 🐛 2 | 🌐 Java | 📅 2024-08-28 ★906 - 安卓图片手势控件
 * [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) ⭐ 1,881 | 🐛 73 | 🌐 Java | 📅 2017-10-21 ★1489 - 支持超大图片流畅缩放
 * [scissors](https://github.com/lyft/scissors) ⚠️ Archived ★1650 - Android图片裁剪库
@@ -890,12 +890,12 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [StyleImageView](https://github.com/chengdazhi/StyleImageView) ⭐ 1,439 | 🐛 2 | 🌐 Java | 📅 2017-01-17 ★724 - 图片相关视图的风格添加及亮度对比度设置
 * [BlurImageView](https://github.com/wingjay/BlurImageView) ⭐ 1,330 | 🐛 4 | 🌐 Java | 📅 2018-05-25 ★1086 - 逐步加载图像
 * [TelegramGallery](https://github.com/TangXiaoLv/TelegramGallery) ⭐ 1,328 | 🐛 17 | 🌐 C++ | 📅 2022-07-27 ★1044 - 快速高效低耗相册选择器
-* [AdvancedLuban](https://github.com/shaohui10086/AdvancedLuban) ⭐ 1,322 | 🐛 27 | 🌐 Java | 📅 2019-09-27 ★861 - 方便简约的 Android 图片压缩工具库
+* [AdvancedLuban](https://github.com/shaohui10086/AdvancedLuban) ⭐ 1,321 | 🐛 27 | 🌐 Java | 📅 2019-09-27 ★861 - 方便简约的 Android 图片压缩工具库
 * [android-square-progressbar](https://github.com/mrwonderman/android-square-progressbar) ⭐ 1,270 | 🐛 18 | 🌐 Java | 📅 2018-03-30 ★976 - 围绕图片的进度条
 * [android-image-picker](https://github.com/esafirm/android-image-picker) ⚠️ Archived ★112 - 选择图像的简单的库
 * [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) ⭐ 1,047 | 🐛 6 | 🌐 Java | 📅 2016-10-10 ★828 - 图片处理sdk
 * [SimpleTagImageView](https://github.com/wujingchao/SimpleTagImageView) ⭐ 925 | 🐛 2 | 🌐 Java | 📅 2016-08-31 ★822 - 安卓中带有标签的ImageView
-* [Zoomy](https://github.com/imablanco/Zoomy) ⭐ 916 | 🐛 22 | 🌐 Java | 📅 2023-03-14 ★648 - 缩放Android库
+* [Zoomy](https://github.com/imablanco/Zoomy) ⭐ 911 | 🐛 22 | 🌐 Java | 📅 2023-03-14 ★648 - 缩放Android库
 * [ImagePicker](https://github.com/martin90s/ImagePicker) ⭐ 883 | 🐛 16 | 🌐 Java | 📅 2017-12-21 ★687 - 图片选择控件
 * [FishBun](https://github.com/sangcomz/FishBun) ⭐ 675 | 🐛 53 | 🌐 Kotlin | 📅 2025-11-30 ★273 - Android图片选择器
 * [CropImageView](https://github.com/cesards/CropImageView) ⭐ 645 | 🐛 14 | 🌐 Java | 📅 2019-02-20 ★588 - 支持不同类型裁剪的ImageView
@@ -917,7 +917,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [HotImg](https://github.com/dreamlivemeng/HotImg) ⭐ 290 | 🐛 2 | 🌐 Java | 📅 2016-06-12 ★211 - 图片不规则区域点击事件处理
 * [JigsawDemo](https://github.com/newtonker/JigsawDemo) ⭐ 277 | 🐛 4 | 🌐 Java | 📅 2016-03-15 ★206 - Android的拼图Demo
 * [imagepickerdemo](https://github.com/fengyongge/imagepickerdemo) ⭐ 276 | 🐛 1 | 🌐 Java | 📅 2020-11-25 ★216 - 图片选择器
-* [XLowPoly](https://github.com/xyzxqs/XLowPoly) ⭐ 267 | 🐛 2 | 🌐 C | 📅 2018-11-01 ★242 - low poly图片的安卓实现
+* [XLowPoly](https://github.com/xyzxqs/XLowPoly) ⭐ 266 | 🐛 2 | 🌐 C | 📅 2018-11-01 ★242 - low poly图片的安卓实现
 * [collageview](https://github.com/lopei/collageview) ⭐ 242 | 🐛 2 | 🌐 Java | 📅 2022-11-24 ★181 - 创建简单照片拼贴
 * [ImageLoader](https://github.com/hss01248/ImageLoader) ⭐ 238 | 🐛 2 | 🌐 Java | 📅 2025-02-03 ★74 - 图片加载框架的api封装
 * [AlbumSelector](https://github.com/lijunguan/AlbumSelector) ⭐ 224 | 🐛 12 | 🌐 Java | 📅 2017-05-04 ★222 - 图片选择库
@@ -945,7 +945,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 徽章(Badge)
 
-* [BadgeView](https://github.com/qstumn/BadgeView) ⭐ 3,959 | 🐛 53 | 🌐 Java | 📅 2021-03-30 ★1375 - 自由定制的BadgeView
+* [BadgeView](https://github.com/qstumn/BadgeView) ⭐ 3,958 | 🐛 53 | 🌐 Java | 📅 2021-03-30 ★1375 - 自由定制的BadgeView
 * [BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) ⭐ 2,635 | 🐛 29 | 🌐 Java | 📅 2026-07-11 ★1680 - Android 徽章控件
 * [MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView) ⭐ 1,331 | 🐛 7 | 🌐 Java | 📅 2017-02-15 ★891 - 展示新的信息标识和新的特色标识
 * [Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge) ⭐ 1,257 | 🐛 0 | 🌐 Java | 📅 2020-06-14 ★1094 - 为ActionItem添加标识
@@ -961,7 +961,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 * [MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar) ⭐ 1,955 | 🐛 5 | 🌐 Java | 📅 2019-12-06 ★830 - 性能更好的MD风格的RatingBar
 * [SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar) ⭐ 1,367 | 🐛 13 | 🌐 Java | 📅 2020-12-14 ★370 - 一个简单的自定义动画的评分组件
-* [SmileyRating](https://github.com/sujithkanna/SmileyRating) ⭐ 1,091 | 🐛 22 | 🌐 Java | 📅 2021-01-04 ★638 - Android简单的评级栏
+* [SmileyRating](https://github.com/sujithkanna/SmileyRating) ⭐ 1,090 | 🐛 22 | 🌐 Java | 📅 2021-01-04 ★638 - Android简单的评级栏
 * [SimpleRatingBar](https://github.com/FlyingPumba/SimpleRatingBar) ⭐ 1,030 | 🐛 17 | 🌐 Java | 📅 2020-05-14 ★639 - 简单但功能强大的RatingBar
 * [SpiderWebScoreView](https://github.com/xiaopansky/SpiderWebScoreView) ⚠️ Archived ★574 - 蛛网评分控件
 * [SimpleRatingView](https://github.com/xiprox/SimpleRatingView) ⭐ 160 | 🐛 0 | 🌐 Java | 📅 2017-03-23 ★167 - Android的评价切换
@@ -988,7 +988,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## TreeView
 
-* [AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView) ⭐ 3,034 | 🐛 116 | 🌐 Java | 📅 2022-02-09 ★1692 - 安卓的目录视图
+* [AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView) ⭐ 3,033 | 🐛 116 | 🌐 Java | 📅 2022-02-09 ★1692 - 安卓的目录视图
 * [RecyclerTreeView](https://github.com/TellH/RecyclerTreeView) ⭐ 647 | 🐛 41 | 🌐 Java | 📅 2021-11-20 ★167 - 安卓的TreeView实现
 * [TreeView](https://github.com/shineM/TreeView) ⭐ 472 | 🐛 23 | 🌐 Java | 📅 2019-09-08 ★102 - 树形结构组件
 
@@ -1002,7 +1002,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) ⭐ 1,312 | 🐛 17 | 🌐 Java | 📅 2022-10-20 ★1215 - 浮动的搜索视图实现
 * [Search-View-Layout](https://github.com/sahildave/Search-View-Layout) ⭐ 1,093 | 🐛 4 | 🌐 Java | 📅 2018-09-24 ★891 - Lollipop+ Dialer和Google Maps的实现
 * [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView) ⚠️ Archived ★731 - 基于MD风格的Android搜索视图
-* [search-dialog](https://github.com/mirrajabi/search-dialog) ⭐ 506 | 🐛 4 | 🌐 Java | 📅 2020-10-01 ★188 - 快速和自定义的搜索对话框
+* [search-dialog](https://github.com/mirrajabi/search-dialog) ⭐ 505 | 🐛 4 | 🌐 Java | 📅 2020-10-01 ★188 - 快速和自定义的搜索对话框
 * [Material-SearchTransition](https://github.com/alexstyl/Material-SearchTransition) ⭐ 404 | 🐛 0 | 🌐 Java | 📅 2021-09-23 ★324 - 展示如何过渡到搜索的示例项目
 * [SearchDialog](https://github.com/wenwenwen888/SearchDialog) ⚠️ Archived ★89 - 仿bilibili搜索框效果
 * [searchablespinner](https://github.com/michaelprimez/searchablespinner) ⭐ 313 | 🐛 28 | 🌐 Java | 📅 2021-10-25 ★97 - 搜索器
@@ -1012,12 +1012,12 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## TagView
 
-* [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) ⭐ 3,274 | 🐛 38 | 🌐 Java | 📅 2020-01-17 ★1716 - 自定义RecyclerView布局管理器
-* [FlowLayout](https://github.com/nex3z/FlowLayout) ⭐ 2,423 | 🐛 0 | 🌐 Java | 📅 2025-05-29 ★952 - 让子视图自动浮动到下一行
+* [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) ⭐ 3,273 | 🐛 38 | 🌐 Java | 📅 2020-01-17 ★1716 - 自定义RecyclerView布局管理器
+* [FlowLayout](https://github.com/nex3z/FlowLayout) ⭐ 2,422 | 🐛 0 | 🌐 Java | 📅 2025-05-29 ★952 - 让子视图自动浮动到下一行
 * [AndroidTagView](https://github.com/whilu/AndroidTagView) ⭐ 1,713 | 🐛 72 | 🌐 Java | 📅 2020-11-12 ★798 - Android TagView库
 * [materialChipView](https://github.com/robertlevonyan/materialChipView) ⚠️ Archived ★684 - MD风格的Chip视图
 * [SimpleTagImageView](https://github.com/wujingchao/SimpleTagImageView) ⭐ 925 | 🐛 2 | 🌐 Java | 📅 2016-08-31 ★822 - 安卓中带有标签的ImageView
-* [TagViewGroup](https://github.com/shellljx/TagViewGroup) ⭐ 897 | 🐛 4 | 🌐 Kotlin | 📅 2019-03-09 ★434 - Android 仿小红书图片标签
+* [TagViewGroup](https://github.com/shellljx/TagViewGroup) ⭐ 896 | 🐛 4 | 🌐 Kotlin | 📅 2019-03-09 ★434 - Android 仿小红书图片标签
 * [android-tagview](https://github.com/kaedea/android-tagview) ⭐ 657 | 🐛 18 | 🌐 Java | 📅 2020-07-15 ★580 - 云标签控件
 * [AutoLabelUI](https://github.com/DavidPizarro/AutoLabelUI) ⭐ 624 | 🐛 17 | 🌐 Java | 📅 2016-03-07 ★591 - 将标签并排放置的Android库
 * [TriangleRectangleLabelView](https://github.com/Frank-Zhu/TriangleRectangleLabelView) ⭐ 460 | 🐛 3 | 🌐 Java | 📅 2016-01-20 ★448 - 标签视图
@@ -1038,17 +1038,17 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [html-textview](https://github.com/SufficientlySecure/html-textview) ⚠️ Archived ★929 - 扩展的安卓TextView组件
 * [SlantedTextView](https://github.com/HeZaiJin/SlantedTextView) ⭐ 2,250 | 🐛 2 | 🌐 Java | 📅 2023-02-19 ★1258 - 倾斜的TextView
 * [TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android) ⚠️ Archived ★1490 - 文本处理库
-* [FadingTextView](https://github.com/rosenpin/FadingTextView) ⭐ 1,720 | 🐛 2 | 🌐 Kotlin | 📅 2023-12-29 ★866 - 自动改变其内容的TextView
+* [FadingTextView](https://github.com/rosenpin/FadingTextView) ⭐ 1,718 | 🐛 2 | 🌐 Kotlin | 📅 2023-12-29 ★866 - 自动改变其内容的TextView
 * [Android-TextView-LinkBuilder](https://github.com/klinker24/Android-TextView-LinkBuilder) ⭐ 1,573 | 🐛 11 | 🌐 Kotlin | 📅 2020-01-20 ★1165 - 创建可点击的链接
-* [RotatingText](https://github.com/sdsmdg/RotatingText) ⭐ 1,572 | 🐛 15 | 🌐 Java | 📅 2020-07-11 ★845 - 周期性文本更新库
+* [RotatingText](https://github.com/sdsmdg/RotatingText) ⭐ 1,570 | 🐛 15 | 🌐 Java | 📅 2020-07-11 ★845 - 周期性文本更新库
 * [TextLayoutBuilder](https://github.com/facebookincubator/TextLayoutBuilder) ⭐ 1,471 | 🐛 2 | 🌐 Kotlin | 📅 2026-11-02 ★1124 - Facebook出品的在Android中轻松实现文字布局
 * [TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete) ⭐ 1,309 | 🐛 31 | 🌐 Kotlin | 📅 2024-03-18 ★999 - 安卓Gmail风格的MultiAutoCompleteTextView
-* [AutoLinkTextView](https://github.com/armcha/AutoLinkTextView) ⭐ 1,108 | 🐛 23 | 🌐 Java | 📅 2019-10-09 ★835 - 自动检测并处理点击事件
+* [AutoLinkTextView](https://github.com/armcha/AutoLinkTextView) ⭐ 1,107 | 🐛 23 | 🌐 Java | 📅 2019-10-09 ★835 - 自动检测并处理点击事件
 * [android-justifiedtextview](https://github.com/ufo22940268/android-justifiedtextview) ⭐ 949 | 🐛 30 | 🌐 Java | 📅 2024-12-03 ★580 - 基于原生TextView实现合理的textview
 * [AutoFitTextView](https://github.com/AndroidDeveloperLB/AutoFitTextView) ⭐ 910 | 🐛 12 | 🌐 Kotlin | 📅 2026-02-19 ★674 - 自动适应字体和行计数的TextView
 * [TriangleLabelView](https://github.com/shts/TriangleLabelView) ⭐ 865 | 🐛 5 | 🌐 Java | 📅 2018-05-04 ★587 - 显示三角视图
 * [Better-Link-Movement-Method](https://github.com/Saketme/Better-Link-Movement-Method) ⭐ 787 | 🐛 9 | 🌐 Java | 📅 2024-03-17 ★231 - 在TextView中处理RUL
-* [Markdown](https://github.com/zzhoujay/Markdown) ⭐ 784 | 🐛 11 | 🌐 Java | 📅 2017-10-10 ★485 - Android原生Markdown解析器
+* [Markdown](https://github.com/zzhoujay/Markdown) ⭐ 783 | 🐛 11 | 🌐 Java | 📅 2017-10-10 ★485 - Android原生Markdown解析器
 * [Android-RobotoTextView](https://github.com/johnkil/Android-RobotoTextView) ⭐ 770 | 🐛 2 | 🌐 Java | 📅 2017-07-26 ★760 - TextView及其直接间接子类的实现
 * [BabushkaText](https://github.com/quiqueqs/BabushkaText) ⭐ 740 | 🐛 7 | 🌐 Java | 📅 2016-02-03 ★659 - 通过Spannables设置文本样式
 * [RickText](https://github.com/CarGuo/RickText) ⭐ 716 | 🐛 13 | 🌐 Java | 📅 2024-10-16 ★98 - 类似微博的编辑框
@@ -1058,28 +1058,28 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [ExpandableTextView](https://github.com/Chen-Sir/ExpandableTextView) ⭐ 625 | 🐛 1 | 🌐 Java | 📅 2018-07-10 ★493 - 展开折叠TextView
 * [AvatarLabelView](https://github.com/yanbober/AvatarLabelView) ⭐ 564 | 🐛 0 | 🌐 Java | 📅 2017-04-15 ★424 - 可配置的迷你版轻量级 Label 辅助类
 * [Trestle](https://github.com/lawloretienne/Trestle) ⭐ 559 | 🐛 2 | 🌐 Java | 📅 2020-09-02 ★542 - 在TextView上桥接span
-* [html-builder](https://github.com/jrummyapps/html-builder) ⭐ 531 | 🐛 3 | 🌐 Kotlin | 📅 2023-02-03 ★435 - 为Android TextView建立有效的HTML
+* [html-builder](https://github.com/jrummyapps/html-builder) ⭐ 530 | 🐛 3 | 🌐 Kotlin | 📅 2023-02-03 ★435 - 为Android TextView建立有效的HTML
 * [SimpleText](https://github.com/jaychang0917/SimpleText) ⚠️ Archived ★422 - 简化spannable字符串的创建
 * [cornerlabelview](https://github.com/czy1121/cornerlabelview) ⚠️ Archived ★396 - 视图角标
-* [dante](https://github.com/fourlastor/dante) ⭐ 457 | 🐛 1 | 🌐 Java | 📅 2021-10-24 ★419 - 文本解析器
-* [XRichText](https://github.com/limedroid/XRichText) ⭐ 451 | 🐛 16 | 🌐 Java | 📅 2016-12-15 ★279 - 显示Html富文本的TextView
-* [FlexibleRichTextView](https://github.com/daquexian/FlexibleRichTextView) ⭐ 449 | 🐛 21 | 🌐 Java | 📅 2018-01-05 ★200 - 自行定义大部分标签
+* [dante](https://github.com/fourlastor/dante) ⭐ 456 | 🐛 1 | 🌐 Java | 📅 2021-10-24 ★419 - 文本解析器
+* [XRichText](https://github.com/limedroid/XRichText) ⭐ 450 | 🐛 16 | 🌐 Java | 📅 2016-12-15 ★279 - 显示Html富文本的TextView
 * [nachos](https://github.com/hootsuite/nachos) ⭐ 449 | 🐛 42 | 🌐 Java | 📅 2025-12-16 ★59 - 输入文本并创建MD风格的chip
-* [text-decorator](https://github.com/nntuyen/text-decorator) ⭐ 394 | 🐛 4 | 🌐 Java | 📅 2018-06-10 ★367 - 轻松装饰TextView
+* [FlexibleRichTextView](https://github.com/daquexian/FlexibleRichTextView) ⭐ 448 | 🐛 21 | 🌐 Java | 📅 2018-01-05 ★200 - 自行定义大部分标签
+* [text-decorator](https://github.com/nntuyen/text-decorator) ⭐ 392 | 🐛 4 | 🌐 Java | 📅 2018-06-10 ★367 - 轻松装饰TextView
 * [UnderLineLinkTextView](https://github.com/wangshaolei/UnderLineLinkTextView) ⭐ 360 | 🐛 4 | 🌐 Java | 📅 2017-09-22 ★327 - 使关键词带有可点击的下划线TextView
 * [RandomTextView](https://github.com/AndroidMsky/RandomTextView) ⭐ 358 | 🐛 12 | 🌐 Java | 📅 2020-04-18 ★116 - 滚动显示TextView的数字
 * [PinchZoomTextView](https://github.com/androidessence/PinchZoomTextView) ⭐ 306 | 🐛 0 | 🌐 Java | 📅 2020-07-11 ★272 - 用手势缩放字体大小
 * [CompoundIconTextView](https://github.com/AAkira/CompoundIconTextView) ⭐ 245 | 🐛 2 | 🌐 Java | 📅 2017-11-14 ★183 - 带有icon的TextView
-* [ColorTextView](https://github.com/zhonghanwen/ColorTextView) ⭐ 213 | 🐛 2 | 🌐 Java | 📅 2017-03-09 ★214 - 用颜色标记一些短语
+* [ColorTextView](https://github.com/zhonghanwen/ColorTextView) ⭐ 212 | 🐛 2 | 🌐 Java | 📅 2017-03-09 ★214 - 用颜色标记一些短语
 * [GetWordTextView](https://github.com/burgessjp/GetWordTextView) ⭐ 206 | 🐛 3 | 🌐 Java | 📅 2018-08-06 ★168 - 通过点击获得词语
 * [TagEditText](https://github.com/limedroid/TagEditText) ⭐ 152 | 🐛 1 | 🌐 Java | 📅 2016-12-19 ★115 - 显示类似微博中的活动标签
 * [MoreTextView](https://github.com/Xander1024/MoreTextView) ⭐ 151 | 🐛 2 | 🌐 Java | 📅 2017-11-07 ★129 - TextView的“展开”和“收起”
 * [TextViewDrawable](https://github.com/ithedan/TextViewDrawable) ⭐ 131 | 🐛 8 | 🌐 Java | 📅 2019-11-21 ★37 - 仿大众点评的购买须知
-* [CharCountTextView](https://github.com/xbroak/CharCountTextView) ⭐ 119 | 🐛 0 | 🌐 Java | 📅 2017-08-23 ★114 - 仿Twitter剩余长度计数器
+* [CharCountTextView](https://github.com/xbroak/CharCountTextView) ⭐ 118 | 🐛 0 | 🌐 Java | 📅 2017-08-23 ★114 - 仿Twitter剩余长度计数器
 * [RichTextView](https://github.com/githubwing/RichTextView) ⭐ 80 | 🐛 3 | 🌐 Java | 📅 2016-09-28 ★37 - 富文本textview
 * [SpanBuilder](https://github.com/zrq1060/SpanBuilder) ⭐ 71 | 🐛 1 | 🌐 Kotlin | 📅 2021-06-30 ★19 - TextView可以生成的span样式
 * [Zaman](https://github.com/Morxander/Zaman) ⭐ 67 | 🐛 0 | 🌐 Java | 📅 2016-12-14 ★54 - 将timestamp转化为时间String
-* [SpanEZ](https://github.com/yombunker/SpanEZ) ⭐ 47 | 🐛 0 | 🌐 Java | 📅 2020-08-09 ★39 - 从Spannable API完成提取
+* [SpanEZ](https://github.com/yombunker/SpanEZ) ⭐ 46 | 🐛 0 | 🌐 Java | 📅 2020-08-09 ★39 - 从Spannable API完成提取
 * [TextViewSpanLink](https://github.com/loonggg/TextViewSpanLink) ⭐ 39 | 🐛 1 | 🌐 Java | 📅 2016-10-24 ★30 - TextView上展示超链接
 * [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) ★1053 - 装饰文本的自定义TextView
 
@@ -1090,7 +1090,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [Android Form EditText](https://github.com/vekexasia/android-edittext-validator) ⭐ 1,437 | 🐛 5 | 🌐 Java | 📅 2021-09-09 ★1234 - 为edittext带来数据有效性工具
 * [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout) ⭐ 978 | 🐛 1 | 🌐 Java | 📅 2025-06-04 ★818 - 简单的TextImputLayout定制化服务
 * [BiuEditText](https://github.com/xujinyang/BiuEditText) ⭐ 667 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-24 ★600 - 一个有趣的EditText
-* [MentionEditText](https://github.com/luckyandyzhang/MentionEditText) ⭐ 555 | 🐛 5 | 🌐 Java | 📅 2019-04-01 ★352 - 为提及的字符串添加一些有用的功能特色
+* [MentionEditText](https://github.com/luckyandyzhang/MentionEditText) ⭐ 554 | 🐛 5 | 🌐 Java | 📅 2019-04-01 ★352 - 为提及的字符串添加一些有用的功能特色
 * [AndroidEdit](https://github.com/qinci/AndroidEdit) ⭐ 476 | 🐛 1 | 🌐 Java | 📅 2016-12-15 ★334 - EditText的撤销和恢复撤销操作
 * [TyperEditText](https://github.com/andyxialm/TyperEditText) ⭐ 381 | 🐛 1 | 🌐 Java | 📅 2022-03-19 ★314 - 打字机效果
 * [PowerfulViewLibrary](https://github.com/chaychan/PowerfulViewLibrary) ⭐ 359 | 🐛 7 | 🌐 Java | 📅 2018-03-12 ★155 - 输入框功能
@@ -1107,7 +1107,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## Sliding
 
 * [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) ⭐ 9,434 | 🐛 300 | 🌐 Java | 📅 2022-07-21 ★6303 - 通过向上拖动添加额外面板
-* [SlideUp-Android](https://github.com/mancj/SlideUp-Android) ⭐ 1,614 | 🐛 15 | 🌐 Java | 📅 2019-10-02 ★1263 - 对任何视图添加边侧效果
+* [SlideUp-Android](https://github.com/mancj/SlideUp-Android) ⭐ 1,613 | 🐛 15 | 🌐 Java | 📅 2019-10-02 ★1263 - 对任何视图添加边侧效果
 * [SlidingLayout](https://github.com/HomHomLin/SlidingLayout) ⭐ 624 | 🐛 11 | 🌐 Java | 📅 2016-05-30 ★384 - 安卓平台View控件
 * [DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) ⭐ 572 | 🐛 9 | 🌐 Java | 📅 2020-09-02 ★542 - 让用户在指定的刻度线上选择一个值的滑块
 * [SlidingBall](https://github.com/dalong982242260/SlidingBall) ⭐ 262 | 🐛 7 | 🌐 Java | 📅 2016-12-02 ★199 - 仿QQ身边的人的效果
@@ -1116,15 +1116,15 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## 表单
 
 * [android-saripaar](https://github.com/ragunathjawahar/android-saripaar) ⭐ 3,185 | 🐛 62 | 🌐 Java | 📅 2020-12-03 ★2292 - 基于规则的AndroidUI输入验证库
-* [hover](https://github.com/google/hover) ⚠️ Archived ★2025 - Android浮动菜单实现
 * [MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput) ⚠️ Archived ★1502 - MD风格chip组件的实现
+* [hover](https://github.com/google/hover) ⚠️ Archived ★2025 - Android浮动菜单实现
 * [MaterialLogin](https://github.com/fanrunqi/MaterialLogin) ⭐ 1,902 | 🐛 3 | 🌐 Java | 📅 2021-05-08 ★1525 - MD风格的登录效果
 * [GridPasswordView](https://github.com/Jungerr/GridPasswordView) ⭐ 1,601 | 🐛 19 | 🌐 Java | 📅 2021-04-15 ★1262 - Android密码视图
 * [AwesomeValidation](https://github.com/thyrlian/AwesomeValidation) ⭐ 1,134 | 🐛 9 | 🌐 Java | 📅 2022-05-01 ★747 - 实现对Android的验证
 * [material-code-input](https://github.com/glomadrian/material-code-input) ⭐ 952 | 🐛 33 | 🌐 Java | 📅 2018-10-25 ★668 - MD样式的编码输入
 * [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) ⭐ 837 | 🐛 8 | 🌐 Java | 📅 2021-04-07 ★770 - Android可开闭输入键盘
-* [MaterialLogin](https://github.com/shem8/MaterialLogin) ⭐ 792 | 🐛 6 | 🌐 Java | 📅 2018-07-22 ★695 - MD风格的登录注册视图
-* [SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) ⭐ 706 | 🐛 5 | 🌐 Java | 📅 2019-04-19 ★403 - Android 平台的滑动验证码
+* [MaterialLogin](https://github.com/shem8/MaterialLogin) ⭐ 791 | 🐛 6 | 🌐 Java | 📅 2018-07-22 ★695 - MD风格的登录注册视图
+* [SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) ⭐ 705 | 🐛 5 | 🌐 Java | 📅 2019-04-19 ★403 - Android 平台的滑动验证码
 * [passwordview](https://github.com/lisawray/passwordview) ⭐ 695 | 🐛 5 | 🌐 Java | 📅 2017-05-27 ★666 - Android密码视图
 * [OnePageSigninSignup](https://github.com/irfaan008/OnePageSigninSignup) ⭐ 561 | 🐛 3 | 🌐 Java | 📅 2019-05-19 ★447 - 单页面实现注册登录
 * [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) ⭐ 527 | 🐛 1 | 🌐 Java | 📅 2023-03-03 ★537 - 当完成密码时显示一个动画
@@ -1147,7 +1147,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) ⭐ 4,736 | 🐛 93 | 🌐 Java | 📅 2023-10-10 ★2733 - 通用的广告栏控件
 * [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) ⭐ 4,158 | 🐛 54 | 🌐 Java | 📅 2026-07-27 ★1773 - 引导界面滑动导航
 * [MZBannerView](https://github.com/pinguo-zhouwei/MZBannerView) ⭐ 2,294 | 🐛 76 | 🌐 Java | 📅 2018-06-10 ★193 - 仿魅族BannerView
-* [XBanner](https://github.com/xiaohaibin/XBanner) ⭐ 2,215 | 🐛 30 | 🌐 Java | 📅 2024-06-28 ★358 - 自定义图片无限轮播的控件
+* [XBanner](https://github.com/xiaohaibin/XBanner) ⭐ 2,215 | 🐛 29 | 🌐 Java | 📅 2024-06-28 ★358 - 自定义图片无限轮播的控件
 * [android-pile-layout](https://github.com/xmuSistone/android-pile-layout) ⭐ 2,154 | 🐛 14 | 🌐 Java | 📅 2018-09-25 ★1210 - 堆叠滑动控件
 * [carouselview](https://github.com/sayyam/carouselview) ⭐ 1,182 | 🐛 75 | 🌐 Java | 📅 2020-02-18 ★608 - Android轮播框库
 * [CarouselPicker](https://github.com/GoodieBag/CarouselPicker) ⭐ 703 | 🐛 24 | 🌐 Java | 📅 2023-11-28 ★475 - 轮播图选择器
@@ -1164,7 +1164,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 文件操作
 
-* [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) ⭐ 6,455 | 🐛 667 | 🌐 Kotlin | 📅 2026-10-31 ★1209 - 好用的文件管理源代码
+* [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) ⭐ 6,457 | 🐛 663 | 🌐 Kotlin | 📅 2026-11-06 ★1209 - 好用的文件管理源代码
 * [Android Upload Service](https://github.com/gotev/android-upload-service) ⭐ 2,853 | 🐛 3 | 🌐 Kotlin | 📅 2025-01-18 ★1218 - 轻松实现后台上传文件
 * [Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker) ⭐ 2,696 | 🐛 93 | 🌐 Kotlin | 📅 2023-08-27 ★1103 - 灵活选择图片和视频的文件选择器
 * [MaterialFilePicker](https://github.com/nbsp-team/MaterialFilePicker) ⭐ 1,165 | 🐛 35 | 🌐 Java | 📅 2023-02-05 ★613 - MD风格文件选择器库
@@ -1188,7 +1188,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [RippleEffect](https://github.com/traex/RippleEffect) ⭐ 4,882 | 🐛 54 | 🌐 Java | 📅 2021-02-04 ★4235 - MD风格的点击涟漪效果实现
 * [Carbon](https://github.com/ZieIony/Carbon) ⚠️ Archived ★1654 - Android的MD风格实现案例
 * [material-ripple](https://github.com/balysv/material-ripple) ⭐ 2,342 | 🐛 52 | 🌐 Java | 📅 2024-06-11 ★1832 - Android视图的纹波效果封装
-* [MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) ⭐ 2,166 | 🐛 5 | 🌐 Java | 📅 2020-04-01 ★981 - 支持 convex material阴影库
+* [MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) ⭐ 2,165 | 🐛 5 | 🌐 Java | 📅 2020-04-01 ★981 - 支持 convex material阴影库
 * [MaterialValues](https://github.com/AoDevBlue/MaterialValues) ⚠️ Archived ★711 - 将Material Design指南中的所有值在资源中定义
 * [RippleDrawable](https://github.com/ozodrukh/RippleDrawable) ⭐ 510 | 🐛 11 | 🌐 Java | 📅 2016-08-08 ★498 - Android<ripple>效果端口
 * [MaterialMasterDetail](https://github.com/lurbas/MaterialMasterDetail) ⭐ 291 | 🐛 2 | 🌐 Java | 📅 2020-02-01 ★242 - 实现Master及Detail模式
@@ -1200,7 +1200,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 * [BottomBar](https://github.com/roughike/BottomBar) ⭐ 8,345 | 🐛 274 | 🌐 Java | 📅 2021-09-16 ★6349 - 自定义视图组件
 * [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) ⭐ 4,919 | 🐛 68 | 🌐 Java | 📅 2024-06-09 ★3088 - 带有色彩交互的导航标签栏
-* [BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation) ⭐ 4,345 | 🐛 27 | 🌐 Java | 📅 2020-12-14 ★2047 - 从GooglePlay商店获取示例apk
+* [BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation) ⭐ 4,344 | 🐛 27 | 🌐 Java | 📅 2020-12-14 ★2047 - 从GooglePlay商店获取示例apk
 * [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) ⭐ 3,814 | 🐛 144 | 🌐 Java | 📅 2021-07-10 ★2098 - 实现MD风格的按钮导航组件库
 * [BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx) ⭐ 3,464 | 🐛 53 | 🌐 Java | 📅 2026-04-24 ★437 - 增强BottomNavigationView的安卓库
 * [Space-Navigation-View](https://github.com/armcha/Space-Navigation-View) ⭐ 1,973 | 🐛 66 | 🌐 Java | 📅 2021-04-29 ★1305 - 仿GoogleSpaces的导航完全整合
@@ -1215,9 +1215,9 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## Toast
 
-* [Toasty](https://github.com/GrenderG/Toasty) ⭐ 6,565 | 🐛 50 | 🌐 Java | 📅 2022-09-28 ★2703 - 通常的Toast
+* [Toasty](https://github.com/GrenderG/Toasty) ⭐ 6,564 | 🐛 50 | 🌐 Java | 📅 2022-09-28 ★2703 - 通常的Toast
 * [SuperToasts](https://github.com/JohnPersano/SuperToasts) ⚠️ Archived ★2300 - 增强并创建立Android Toast库
-* [StyleableToast](https://github.com/Muddz/StyleableToast) ⭐ 2,063 | 🐛 4 | 🌐 Java | 📅 2024-04-03 ★1124 - 标准安卓Toast
+* [StyleableToast](https://github.com/Muddz/StyleableToast) ⭐ 2,062 | 🐛 4 | 🌐 Java | 📅 2024-04-03 ★1124 - 标准安卓Toast
 * [TastyToast](https://github.com/yadav-rahul/TastyToast) ⭐ 2,006 | 🐛 19 | 🌐 Java | 📅 2019-08-20 ★1493 - 精致的原生安卓toast
 * [loadtoast](https://github.com/code-mc/loadtoast) ⭐ 1,519 | 🐛 11 | 🌐 Java | 📅 2021-02-22 ★1254 - Android可自定义toast
 * [Sneaker](https://github.com/Hamadakram/Sneaker) ⭐ 997 | 🐛 20 | 🌐 Kotlin | 📅 2024-06-21 ★430 - 自定义alert的轻量级安卓库
@@ -1246,7 +1246,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## Wave
 
-* [WaveView](https://github.com/gelitenight/WaveView) ⭐ 1,609 | 🐛 16 | 🌐 Java | 📅 2018-10-26 ★957 - 显示波浪效果的视图
+* [WaveView](https://github.com/gelitenight/WaveView) ⭐ 1,610 | 🐛 16 | 🌐 Java | 📅 2018-10-26 ★957 - 显示波浪效果的视图
 * [WaveLoading](https://github.com/race604/WaveLoading) ⭐ 1,442 | 🐛 9 | 🌐 Java | 📅 2018-05-05 ★1094 - 能够提供波浪动画的Drawable
 * [WaveView](https://github.com/john990/WaveView) ⚠️ Archived ★1010 - Android波浪视图
 * [MusicWave](https://github.com/akshay2211/MusicWave) ⭐ 567 | 🐛 4 | 🌐 Java | 📅 2021-09-05 ★283 - 音乐的波纹
@@ -1262,18 +1262,18 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [SnackbarUtils](https://github.com/HuanHaiLiuXin/SnackbarUtils) ⭐ 601 | 🐛 5 | 🌐 Java | 📅 2018-06-01 ★379 - Snackbar工具类
 * [Light](https://github.com/TonnyL/Light) ⭐ 541 | 🐛 6 | 🌐 Kotlin | 📅 2018-07-14 ★180 - 更好的Snackbar实现
 * [CookieBar](https://github.com/liuguangqiang/CookieBar) ⭐ 499 | 🐛 6 | 🌐 Java | 📅 2020-04-08 ★354 - 屏幕的底部或者顶部显示短信息
-* [Snacky](https://github.com/matecode/Snacky) ⭐ 478 | 🐛 12 | 🌐 Java | 📅 2020-06-22 ★336 - 在布局中添加Snackbar
+* [Snacky](https://github.com/matecode/Snacky) ⭐ 477 | 🐛 12 | 🌐 Java | 📅 2020-06-22 ★336 - 在布局中添加Snackbar
 * [SweetTips](https://github.com/HuanHaiLiuXin/SweetTips) ⭐ 137 | 🐛 3 | 🌐 Java | 📅 2018-06-01 ★59 - 快意灵动的提示库
 
 ## 用户引导
 
-* [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) ⭐ 8,477 | 🐛 743 | 🌐 Java | 📅 2025-11-07 ★1978 - Android中显示PDF文档的库
+* [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) ⭐ 8,476 | 🐛 743 | 🌐 Java | 📅 2025-11-07 ★1978 - Android中显示PDF文档的库
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) ⭐ 5,459 | 🐛 57 | 🌐 Java | 📅 2024-10-08 ★2663 - 用户引导功能的实现
 * [Highlight](https://github.com/hongyangAndroid/Highlight) ⭐ 3,163 | 🐛 63 | 🌐 Java | 📅 2022-01-12 ★1854 - app指向性功能高亮的库
-* [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) ⭐ 2,702 | 🐛 144 | 🌐 Java | 📅 2023-04-01 ★1793 - MD主题的ShowcaseView
+* [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) ⭐ 2,703 | 🐛 144 | 🌐 Java | 📅 2023-04-01 ★1793 - MD主题的ShowcaseView
 * [TourGuide](https://github.com/worker8/TourGuide) ⭐ 2,607 | 🐛 82 | 🌐 Kotlin | 📅 2022-04-20 ★2075 - 应用使用方法指导视图
 * [SlidingTutorial-Android](https://github.com/Cleveroad/SlidingTutorial-Android) ⭐ 2,445 | 🐛 3 | 🌐 Java | 📅 2018-11-19 ★1894 - Android滑动引导页库
-* [MaterialIntroView](https://github.com/iammert/MaterialIntroView) ⭐ 2,419 | 🐛 56 | 🌐 Java | 📅 2021-08-18 ★1732 - 给 Android 应用添加用户引导
+* [MaterialIntroView](https://github.com/iammert/MaterialIntroView) ⭐ 2,417 | 🐛 56 | 🌐 Java | 📅 2021-08-18 ★1732 - 给 Android 应用添加用户引导
 * [material-intro](https://github.com/HeinrichReimer/material-intro) ⭐ 1,716 | 🐛 60 | 🌐 Java | 📅 2026-02-02 ★1178 - 简单的MD风格的应用介绍页
 * [Tutors](https://github.com/Popalay/Tutors) ⭐ 82 | 🐛 5 | 🌐 Java | 📅 2017-06-28 ★75 - 种显示用户界面教程
 * [XAnimLayout](https://github.com/limedroid/XAnimLayout) ⭐ 24 | 🐛 0 | 🌐 Java | 📅 2016-11-15 ★18 - 轻松实现引导页动画
@@ -1281,7 +1281,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## Popup
 
 * [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow) ⭐ 1,414 | 🐛 28 | 🌐 Java | 📅 2017-07-05 ★243 - PopupWindow 的常用API封装
-* [BubbleView](https://github.com/cpiz/BubbleView) ⭐ 983 | 🐛 5 | 🌐 Java | 📅 2023-03-09 ★494 - 带箭头的Android气泡控件/容器类
+* [BubbleView](https://github.com/cpiz/BubbleView) ⭐ 982 | 🐛 5 | 🌐 Java | 📅 2023-03-09 ★494 - 带箭头的Android气泡控件/容器类
 * [BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout) ⭐ 967 | 🐛 9 | 🌐 Java | 📅 2021-07-08 ★548 - 气泡文字框
 
 ## 滑动返回
@@ -1291,7 +1291,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [SwipeBack](https://github.com/liuguangqiang/SwipeBack) ⭐ 1,721 | 🐛 44 | 🌐 Java | 📅 2022-05-16 ★1095 - 使用手势完成Activity
 * [SwipeBackHelper](https://github.com/Jude95/SwipeBackHelper) ⭐ 1,372 | 🐛 29 | 🌐 Java | 📅 2017-06-12 ★993 - 仿微信下级activity联动效果
 * [and\_swipeback](https://github.com/XBeats/and_swipeback) ⭐ 1,065 | 🐛 29 | 🌐 Java | 📅 2019-03-26 ★752 - 利用滑动手势退出当前Activity
-* [SlideBack](https://github.com/oubowu/SlideBack) ⭐ 802 | 🐛 6 | 🌐 Java | 📅 2018-03-12 ★676 - 高仿微信视差手势滑动返回库
+* [SlideBack](https://github.com/oubowu/SlideBack) ⭐ 801 | 🐛 6 | 🌐 Java | 📅 2018-03-12 ★676 - 高仿微信视差手势滑动返回库
 * [SwipeBack](https://github.com/sockeqwe/SwipeBack) ⭐ 685 | 🐛 0 | 🌐 Java | 📅 2022-09-08 ★608 - 滑动回退功能
 * [SwipeBackFragment](https://github.com/YoKeyword/SwipeBackFragment) ⭐ 502 | 🐛 17 | 🌐 Java | 📅 2018-11-29 ★329 - 滑动Fragment或Activity边缘拖动返回
 * [KugouLayout](https://github.com/zhaozhentao/KugouLayout) ⭐ 285 | 🐛 1 | 🌐 Java | 📅 2015-03-05 ★295 - 模仿酷狗播放器滑动返回的layout
@@ -1299,7 +1299,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## TV组件
 
-* [TVSample](https://github.com/hejunlin2013/TVSample) ⭐ 1,209 | 🐛 5 | 🌐 Java | 📅 2017-04-12 ★541 - 仿泰捷视频最新TV版 Metro UI
+* [TVSample](https://github.com/hejunlin2013/TVSample) ⭐ 1,208 | 🐛 5 | 🌐 Java | 📅 2017-04-12 ★541 - 仿泰捷视频最新TV版 Metro UI
 * [LivePlayback](https://github.com/hejunlin2013/LivePlayback) ⭐ 834 | 🐛 8 | 🌐 Java | 📅 2017-04-12 ★468 - Android TV直播电视节目
 * [TvWidget](https://github.com/evilbinary/TvWidget) ⭐ 589 | 🐛 0 | 🌐 Java | 📅 2021-07-21 ★293 - tv常用效果控件
 * [CustomTvRecyclerView](https://github.com/songwenju/CustomTvRecyclerView) ⭐ 184 | 🐛 1 | 🌐 Java | 📅 2018-03-21 ★43 - 针对Android Tv Launcher页的recyclerView
@@ -1309,7 +1309,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 * [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) ⭐ 4,167 | 🐛 62 | 🌐 Java | 📅 2020-08-18 ★2111 - 键盘面板冲突及布局闪动处理方案
 * [SoftKeyboardUtil](https://github.com/zybieku/SoftKeyboardUtil) ⭐ 481 | 🐛 3 | 🌐 Java | 📅 2018-12-22 ★44 - 一行代码实现Android软键盘和EditText各种交互
-* [InputMethodHolder](https://github.com/pqpo/InputMethodHolder) ⭐ 429 | 🐛 1 | 🌐 Java | 📅 2017-06-19 ★281 - 监听系统软键盘的状态
+* [InputMethodHolder](https://github.com/pqpo/InputMethodHolder) ⭐ 428 | 🐛 1 | 🌐 Java | 📅 2017-06-19 ★281 - 监听系统软键盘的状态
 * [HideKeyboard](https://github.com/yingLanNull/HideKeyboard) ⭐ 331 | 🐛 2 | 🌐 Java | 📅 2018-08-28 ★210 - 自动隐藏软键盘
 * [FloatingKeyboard](https://github.com/GeorgeArgyrakis/FloatingKeyboard) ⭐ 221 | 🐛 1 | 🌐 Java | 📅 2018-11-06 ★89 - 浮动可拖拽的KeyboardView
 * [KeyboardView](https://github.com/GitPhoenix/KeyboardView) ⭐ 108 | 🐛 0 | 🌐 Java | 📅 2016-12-19 ★22 - 自定义安全键盘
@@ -1319,8 +1319,8 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 状态栏
 
-* [ImmersionBar](https://github.com/gyf-dev/ImmersionBar) ⭐ 11,486 | 🐛 131 | 🌐 Java | 📅 2026-08-01 ★853 - android沉浸式实现
-* [StatusBarUtil](https://github.com/laobie/StatusBarUtil) ⭐ 8,732 | 🐛 112 | 🌐 Java | 📅 2022-06-24 ★3326 - 为Android应用设置状态栏
+* [ImmersionBar](https://github.com/gyf-dev/ImmersionBar) ⭐ 11,485 | 🐛 131 | 🌐 Java | 📅 2026-08-01 ★853 - android沉浸式实现
+* [StatusBarUtil](https://github.com/laobie/StatusBarUtil) ⭐ 8,730 | 🐛 112 | 🌐 Java | 📅 2022-06-24 ★3326 - 为Android应用设置状态栏
 * [StatusBarCompat](https://github.com/niorgai/StatusBarCompat) ⭐ 2,145 | 🐛 0 | 🌐 Java | 📅 2024-12-03 ★1297 - Android 沉浸式状态栏
 * [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar) ⭐ 1,001 | 🐛 5 | 🌐 Java | 📅 2017-04-18 ★857 - SystemBar助手
 
@@ -1329,7 +1329,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [android-material-stepper](https://github.com/stepstone-tech/android-material-stepper) ⭐ 1,773 | 🐛 52 | 🌐 Java | 📅 2020-01-19 ★974 - 在Android应用中使用MD步进
 * [stepper-indicator](https://github.com/badoualy/stepper-indicator) ⚠️ Archived ★1039 - 引导步骤指示器
 * [Steppers](https://github.com/drozdzynski/Steppers) ⭐ 756 | 🐛 9 | 🌐 Java | 📅 2018-09-30 ★714 - Android步骤视图库
-* [BreadcrumbsView](https://github.com/VictorAlbertos/BreadcrumbsView) ⭐ 673 | 🐛 1 | 🌐 Java | 📅 2020-08-09 ★565 - 显示给定序列的当前步骤
+* [BreadcrumbsView](https://github.com/VictorAlbertos/BreadcrumbsView) ⭐ 672 | 🐛 1 | 🌐 Java | 📅 2020-08-09 ★565 - 显示给定序列的当前步骤
 * [StepView](https://github.com/zhangxuyang321/StepView) ⭐ 376 | 🐛 5 | 🌐 Java | 📅 2018-01-10 ★170 - 横向版和竖向版步骤视图
 * [Android-SnappingStepper](https://github.com/saiwu-bigkoo/Android-SnappingStepper) ⭐ 271 | 🐛 4 | 🌐 Java | 📅 2017-04-19 ★198 - 漂亮的增减数字控制UI控件
 * [StepView](https://github.com/baoyachi/StepView) ★2502 - 步骤指示器
@@ -1337,9 +1337,9 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 表格(Table)
 
-* [excelPanel](https://github.com/zhouchaoyuan/excelPanel) ⭐ 2,407 | 🐛 30 | 🌐 Java | 📅 2023-06-14 ★1305 - 仿Excel表格的RecyclerView
-* [ScrollablePanel](https://github.com/Kelin-Hong/ScrollablePanel) ⭐ 2,067 | 🐛 32 | 🌐 Java | 📅 2019-05-06 ★1265 - 二维RecyclerView
-* [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout) ⭐ 1,896 | 🐛 20 | 🌐 Java | 📅 2024-04-01 ★1144 - 读取和写入CSV文件
+* [excelPanel](https://github.com/zhouchaoyuan/excelPanel) ⭐ 2,406 | 🐛 30 | 🌐 Java | 📅 2023-06-14 ★1305 - 仿Excel表格的RecyclerView
+* [ScrollablePanel](https://github.com/Kelin-Hong/ScrollablePanel) ⭐ 2,066 | 🐛 32 | 🌐 Java | 📅 2019-05-06 ★1265 - 二维RecyclerView
+* [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout) ⭐ 1,895 | 🐛 20 | 🌐 Java | 📅 2024-04-01 ★1144 - 读取和写入CSV文件
 * [SortableTableView](https://github.com/ISchwarz23/SortableTableView) ⭐ 1,052 | 🐛 51 | 🌐 Java | 📅 2021-04-17 ★730 - 提供TableView和SortableTableView的安卓库
 * [TableFixHeaders](https://github.com/InQBarna/TableFixHeaders) ⭐ 816 | 🐛 59 | 🌐 Java | 📅 2023-05-25 ★665 - 带有标题的表格的安卓部件
 * [LockTableView](https://github.com/RmondJone/LockTableView) ⭐ 593 | 🐛 11 | 🌐 Java | 📅 2019-08-16 ★19 - Android自定义表格
@@ -1368,7 +1368,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [AboutLibraries](https://github.com/mikepenz/AboutLibraries) ⭐ 4,493 | 🐛 6 | 🌐 Kotlin | 📅 2026-11-02 ★1780 - 提供库信息的库
 * [Android About Page](https://github.com/medyo/android-about-page) ⭐ 2,026 | 🐛 20 | 🌐 Java | 📅 2024-04-05 ★1257 - 快速创建独一无二的About页面
 * [MaterialAbout](https://github.com/jrvansuita/MaterialAbout) ⭐ 1,513 | 🐛 0 | 🌐 Java | 📅 2026-10-14 ★829 - 显示一个MD风格的about页面
-* [material-about-library](https://github.com/daniel-stoneuk/material-about-library) ⭐ 1,111 | 🐛 11 | 🌐 Java | 📅 2021-11-13 ★769 - 为app轻松创建关于页面
+* [material-about-library](https://github.com/daniel-stoneuk/material-about-library) ⭐ 1,110 | 🐛 11 | 🌐 Java | 📅 2021-11-13 ★769 - 为app轻松创建关于页面
 * [about-page](https://github.com/drakeet/about-page) ⭐ 468 | 🐛 6 | 🌐 Java | 📅 2022-08-25 ★95 - 基于MultiType的about页面
 * [LSettingView](https://github.com/leonHua/LSettingView) ⭐ 273 | 🐛 10 | 🌐 Java | 📅 2022-08-24 ★48 - 设置界面条目封装
 
@@ -1388,8 +1388,8 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [FloatingActionButton](https://github.com/Clans/FloatingActionButton) ⚠️ Archived ★3237 - 浮动动作按钮
 * [material-sheet-fab](https://github.com/gowong/material-sheet-fab) ⭐ 1,553 | 🐛 16 | 🌐 Java | 📅 2024-07-31 ★1259 - 实现浮动操作按钮的库
 * [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) ⭐ 1,277 | 🐛 3 | 🌐 Java | 📅 2022-08-30 ★806 - 浮动菜单显示锚导航视图
-* [FabOptions](https://github.com/JoaquimLey/FabOptions) ⭐ 1,028 | 🐛 6 | 🌐 Java | 📅 2020-07-09 ★820 - 多功能自定义FAB组件
-* [CounterFab](https://github.com/andremion/CounterFab) ⭐ 722 | 🐛 3 | 🌐 Kotlin | 📅 2021-04-27 ★374 - 在右上角显示一个计数器的标记
+* [FabOptions](https://github.com/JoaquimLey/FabOptions) ⭐ 1,027 | 🐛 6 | 🌐 Java | 📅 2020-07-09 ★820 - 多功能自定义FAB组件
+* [CounterFab](https://github.com/andremion/CounterFab) ⭐ 720 | 🐛 3 | 🌐 Kotlin | 📅 2021-04-27 ★374 - 在右上角显示一个计数器的标记
 * [SquareMenu](https://github.com/devsideal/SquareMenu) ⭐ 470 | 🐛 2 | 🌐 Java | 📅 2018-09-17 ★406 - 可自定义的浮动动作按钮
 * [FabTransitionLayout](https://github.com/bowyer-app/FabTransitionLayout) ⭐ 456 | 🐛 13 | 🌐 Java | 📅 2017-12-26 ★429 - 浮动操作按钮转换
 
@@ -1402,8 +1402,8 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 分享组件
 
-* [ShareUtil](https://github.com/shaohui10086/ShareUtil) ⭐ 1,341 | 🐛 78 | 🌐 Java | 📅 2020-11-27 ★851 - 综合性的分享及登录工具库
-* [ShareButton](https://github.com/kayan1990/ShareButton) ⭐ 512 | 🐛 4 | 🌐 Java | 📅 2020-03-20 ★452 - 一个具有流畅动画的分享按钮
+* [ShareUtil](https://github.com/shaohui10086/ShareUtil) ⭐ 1,340 | 🐛 78 | 🌐 Java | 📅 2020-11-27 ★851 - 综合性的分享及登录工具库
+* [ShareButton](https://github.com/kayan1990/ShareButton) ⭐ 511 | 🐛 4 | 🌐 Java | 📅 2020-03-20 ★452 - 一个具有流畅动画的分享按钮
 * [GeneratePicture](https://github.com/zhangke3016/GeneratePicture) ⭐ 241 | 🐛 2 | 🌐 Java | 📅 2019-02-19 ★133 - 选取页面内容生成精美分享图片
 
 ## 升级更新
@@ -1458,7 +1458,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## PinCode
 
-* [PatternLockView](https://github.com/aritraroy/PatternLockView) ⭐ 2,708 | 🐛 30 | 🌐 Java | 📅 2022-03-03 ★1236 - MD风格的Android解锁视图
+* [PatternLockView](https://github.com/aritraroy/PatternLockView) ⭐ 2,707 | 🐛 30 | 🌐 Java | 📅 2022-03-03 ★1236 - MD风格的Android解锁视图
 * [LolliPin](https://github.com/OrangeGangsters/LolliPin) ⚠️ Archived ★1159 - MD风格的Android的PIN码库
 * [PinLockView](https://github.com/aritraroy/PinLockView) ⭐ 1,389 | 🐛 49 | 🌐 Java | 📅 2020-02-12 ★801 - PIN锁自定义视图
 * [Pinview](https://github.com/GoodieBag/Pinview) ⭐ 821 | 🐛 39 | 🌐 Kotlin | 📅 2024-02-20 ★414 - Android的Pinview库
@@ -1477,7 +1477,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## 页面切换
 
 * [android-PageFlip](https://github.com/eschao/android-PageFlip) ⭐ 1,744 | 🐛 21 | 🌐 Java | 📅 2024-04-11 ★1126 - 3D风格页面翻页
-* [EasyFlipView](https://github.com/wajahatkarim3/EasyFlipView) ⭐ 1,379 | 🐛 7 | 🌐 Java | 📅 2024-09-05 ★663 - 快速而简单的翻转视图
+* [EasyFlipView](https://github.com/wajahatkarim3/EasyFlipView) ⭐ 1,378 | 🐛 7 | 🌐 Java | 📅 2024-09-05 ★663 - 快速而简单的翻转视图
 * [TransitionPlayer](https://github.com/linfaxin/TransitionPlayer) ⭐ 1,140 | 🐛 0 | 🌐 Java | 📅 2016-07-13 ★1147 - 控制过渡动画的Android库
 * [magellan](https://github.com/wealthfront/magellan) ⭐ 675 | 🐛 34 | 🌐 Kotlin | 📅 2026-03-06 ★350 - 最简单的Android导航库
 * [TranslationCompat](https://github.com/zhangke3016/TranslationCompat) ⭐ 286 | 🐛 2 | 🌐 Java | 📅 2019-02-19 ★150 - 动画过渡兼容库
@@ -1489,9 +1489,9 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## 地图
 
-* [MapView](https://github.com/onlylemi/MapView) ⭐ 685 | 🐛 15 | 🌐 Java | 📅 2019-08-18 ★493 - 室内地图视图
+* [MapView](https://github.com/onlylemi/MapView) ⭐ 684 | 🐛 15 | 🌐 Java | 📅 2019-08-18 ★493 - 室内地图视图
 * [DrawRouteMaps](https://github.com/ar-android/DrawRouteMaps) ⭐ 351 | 🐛 24 | 🌐 Java | 📅 2019-08-01 ★161 - 路线地图功能
-* [ThemedGoogleMap](https://github.com/jineshfrancs/ThemedGoogleMap) ⭐ 171 | 🐛 0 | 🌐 Java | 📅 2023-02-01 ★160 - 创建带自定义主题的GoogleMap的实用类
+* [ThemedGoogleMap](https://github.com/jineshfrancs/ThemedGoogleMap) ⭐ 170 | 🐛 0 | 🌐 Java | 📅 2023-02-01 ★160 - 创建带自定义主题的GoogleMap的实用类
 * [android-togetherMap](https://github.com/yipianfengye/android-togetherMap) ⭐ 88 | 🐛 3 | 🌐 Java | 📅 2016-10-21 ★32 - 高德地图的marker聚合功能
 
 ## 编辑器
@@ -1503,7 +1503,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## SeekBar
 
-* [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) ⭐ 3,455 | 🐛 10 | 🌐 Java | 📅 2024-01-10 ★1915 - 显示视频预览的SeekBar
+* [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) ⭐ 3,454 | 🐛 10 | 🌐 Java | 📅 2024-01-10 ★1915 - 显示视频预览的SeekBar
 * [BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar) ⭐ 3,433 | 🐛 61 | 🌐 Java | 📅 2022-06-29 ★911 - 自定义SeekBar
 * [RangeSeekBar](https://github.com/Jay-Goo/RangeSeekBar) ⭐ 2,622 | 🐛 47 | 🌐 Java | 📅 2024-04-18 ★121 - 可双向范围选择的SeekBar
 * [HueSeekBar](https://github.com/iammert/HueSeekBar) ⭐ 109 | 🐛 7 | 🌐 Java | 📅 2017-09-09 ★45 - 来自Philips Hue app灵感的SeekBar
@@ -1512,13 +1512,13 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 ## DownloadView
 
 * [GADownloading](https://github.com/Ajian-studio/GADownloading) ⭐ 925 | 🐛 3 | 🌐 Java | 📅 2017-01-06 ★733 - 创意下载进度条
-* [FreshDownloadView](https://github.com/dudu90/FreshDownloadView) ⭐ 736 | 🐛 13 | 🌐 Java | 📅 2016-10-06 ★618 - 显示一个动画下载进程
+* [FreshDownloadView](https://github.com/dudu90/FreshDownloadView) ⭐ 735 | 🐛 13 | 🌐 Java | 📅 2016-10-06 ★618 - 显示一个动画下载进程
 * [360DownLoadView](https://github.com/Metal626/360DownLoadView) ⭐ 36 | 🐛 0 | 🌐 Java | 📅 2017-05-16 ★30 - 仿360市场下载按钮
 
 ## 其他
 
 * [Shimmer](https://github.com/facebook/Shimmer) ⚠️ Archived ★7857 - 闪光效果插件
-* [litho](https://github.com/facebook/litho) ⭐ 7,807 | 🐛 115 | 🌐 Kotlin | 📅 2026-11-05 ★3481 - 创建Android高效UI
+* [litho](https://github.com/facebook/litho) ⭐ 7,806 | 🐛 115 | 🌐 Kotlin | 📅 2026-11-06 ★3481 - 创建Android高效UI
 * [Android Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) ⭐ 7,211 | 🐛 31 | 🌐 Java | 📅 2021-09-02 ★5987 - Bootstrap风格安卓主题
 * [Tangram-Android](https://github.com/alibaba/Tangram-Android) ⚠️ Archived ★585 - 动态化构建Native页面的框架
 * [flow](https://github.com/square/flow) ⚠️ Archived ★2269 - 命名UI状态
@@ -1534,39 +1534,39 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [ParticleTextView](https://github.com/Yasic/ParticleTextView) ⭐ 1,328 | 🐛 11 | 🌐 Java | 📅 2017-05-31 ★774 - 用粒子动画显示文字的 Android 自定义 View
 * [StickerView](https://github.com/wuapnjie/StickerView) ⚠️ Archived ★724 - 贴纸视图的缩放拖动翻转删除
 * [Crescento](https://github.com/developer-shivam/Crescento) ⭐ 1,263 | 🐛 9 | 🌐 Java | 📅 2018-10-01 ★902 - 图像视图和相关布局的下面添加曲线
-* [ChromeLikeTabSwitcher](https://github.com/michael-rapp/ChromeLikeTabSwitcher) ⭐ 1,226 | 🐛 9 | 🌐 Java | 📅 2024-03-10 ★781 - 标签切换器
-* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) ⭐ 1,170 | 🐛 8 | 🌐 Kotlin | 📅 2021-06-28 ★728 - 安卓Snowfall View的全自定义实现
+* [ChromeLikeTabSwitcher](https://github.com/michael-rapp/ChromeLikeTabSwitcher) ⭐ 1,225 | 🐛 9 | 🌐 Java | 📅 2024-03-10 ★781 - 标签切换器
+* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) ⭐ 1,169 | 🐛 8 | 🌐 Kotlin | 📅 2021-06-28 ★728 - 安卓Snowfall View的全自定义实现
 * [FloatingView](https://github.com/recruit-lifestyle/FloatingView) ⚠️ Archived ★714 - 显示悬浮窗效果
-* [Isometric](https://github.com/FabianTerhorst/Isometric) ⭐ 1,128 | 🐛 14 | 🌐 Java | 📅 2019-04-20 ★703 - 安卓图形库
+* [Isometric](https://github.com/FabianTerhorst/Isometric) ⭐ 1,125 | 🐛 14 | 🌐 Java | 📅 2019-04-20 ★703 - 安卓图形库
 * [ScratchView](https://github.com/sharish/ScratchView) ⭐ 1,110 | 🐛 14 | 🌐 Java | 📅 2023-01-22 ★868 - 仿刮刮卡视图
-* [PathAnimView](https://github.com/mcxtzhang/PathAnimView) ⭐ 1,072 | 🐛 6 | 🌐 Java | 📅 2017-10-26 ★675 - 用于做Path动画的自定义View
+* [PathAnimView](https://github.com/mcxtzhang/PathAnimView) ⭐ 1,071 | 🐛 6 | 🌐 Java | 📅 2017-10-26 ★675 - 用于做Path动画的自定义View
 * [MathView](https://github.com/kexanie/MathView) ⭐ 1,020 | 🐛 62 | 🌐 Java | 📅 2022-07-19 ★689 - 在Android应用中显示数学公式
-* [BigBang](https://github.com/baoyongzhang/BigBang) ⭐ 988 | 🐛 12 | 🌐 Lex | 📅 2018-08-03 ★902 - 仿了Smartisan OS 的 BigBang 功能
+* [BigBang](https://github.com/baoyongzhang/BigBang) ⭐ 986 | 🐛 12 | 🌐 Lex | 📅 2018-08-03 ★902 - 仿了Smartisan OS 的 BigBang 功能
 * [Android-Coverflow](https://github.com/crosswall/Android-Coverflow) ⭐ 902 | 🐛 37 | 🌐 Java | 📅 2019-06-02 ★507 - 漂亮的Android封面浏览
 * [Android-ExpandIcon](https://github.com/zagum/Android-ExpandIcon) ⭐ 861 | 🐛 0 | 🌐 Java | 📅 2020-05-22 ★739 - Google风格上下箭头的简单自定义实现
 * [QQBubbleView](https://github.com/Yasic/QQBubbleView) ⭐ 857 | 🐛 6 | 🌐 Java | 📅 2016-06-03 ★723 - 仿QQ空间直播礼物冒泡特效
 * [DashboardView](https://github.com/woxingxiao/DashboardView) ⭐ 847 | 🐛 4 | 🌐 Java | 📅 2017-02-17 ★247 - 安卓自定义仪表盘View
-* [DrawView](https://github.com/ByoxCode/DrawView) ⭐ 841 | 🐛 20 | 🌐 Java | 📅 2023-07-09 ★548 - 提供涂鸦功能
-* [tooltips](https://github.com/tomergoldst/tooltips) ⭐ 823 | 🐛 5 | 🌐 Java | 📅 2023-10-21 ★532 - 在任何视图上添加工具提示
+* [DrawView](https://github.com/ByoxCode/DrawView) ⭐ 840 | 🐛 20 | 🌐 Java | 📅 2023-07-09 ★548 - 提供涂鸦功能
+* [tooltips](https://github.com/tomergoldst/tooltips) ⭐ 822 | 🐛 5 | 🌐 Java | 📅 2023-10-21 ★532 - 在任何视图上添加工具提示
 * [PolygonDrawingUtil](https://github.com/stkent/PolygonDrawingUtil) ⚠️ Archived ★527 - 在canvas上绘制规则多边形
 * [ElasticViews](https://github.com/skydoves/ElasticViews) ⭐ 817 | 🐛 0 | 🌐 Kotlin | 📅 2024-04-04 ★49 - 触摸动画Android视图
-* [GABottleLoading](https://github.com/Ajian-studio/GABottleLoading) ⭐ 808 | 🐛 0 | 🌐 Java | 📅 2017-01-04 ★635 - 贝塞尔风暴
+* [GABottleLoading](https://github.com/Ajian-studio/GABottleLoading) ⭐ 807 | 🐛 0 | 🌐 Java | 📅 2017-01-04 ★635 - 贝塞尔风暴
 * [LoopRotarySwitch](https://github.com/dalong982242260/LoopRotarySwitch) ⭐ 805 | 🐛 4 | 🌐 Java | 📅 2020-01-28 ★561 - 3d旋转切换view
 * [ScrollNumber](https://github.com/a-voyager/ScrollNumber) ⭐ 805 | 🐛 5 | 🌐 Java | 📅 2017-07-15 ★554 - 简单优雅易用的滚动数字控件
 * [Depth](https://github.com/florent37/Depth) ⚠️ Archived ★571 - 在fragments中添加Depth
 * [LyricViewDemo](https://github.com/zhengken/LyricViewDemo) ⭐ 686 | 🐛 3 | 🌐 Java | 📅 2022-04-10 ★494 - 强大灵活的歌词视图
 * [Squint](https://github.com/IntruderShanky/Squint) ⭐ 672 | 🐛 2 | 🌐 Java | 📅 2017-02-11 ★639 - 提供视图的对角线裁剪
-* [Android-DragDismissActivity](https://github.com/klinker24/Android-DragDismissActivity) ⭐ 668 | 🐛 7 | 🌐 Java | 📅 2020-03-11 ★495 - 滑动取消Activity
-* [FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView) ⭐ 647 | 🐛 11 | 🌐 Java | 📅 2017-07-21 ★365 - 一个可以自由涂鸦的视图
+* [Android-DragDismissActivity](https://github.com/klinker24/Android-DragDismissActivity) ⭐ 666 | 🐛 7 | 🌐 Java | 📅 2020-03-11 ★495 - 滑动取消Activity
+* [FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView) ⭐ 646 | 🐛 11 | 🌐 Java | 📅 2017-07-21 ★365 - 一个可以自由涂鸦的视图
 * [FogView\_Library](https://github.com/dynamitechetan/FogView_Library) ⭐ 621 | 🐛 1 | 🌐 Java | 📅 2016-08-09 ★586 - 安卓雾气视图库
 * [tab-digit](https://github.com/xenione/tab-digit) ⭐ 611 | 🐛 0 | 🌐 Java | 📅 2019-05-13 ★279 - 一个Flip Clock 库
-* [AppIconNameChanger](https://github.com/myinnos/AppIconNameChanger) ⭐ 604 | 🐛 8 | 🌐 Java | 📅 2022-05-25 ★397 - 动态的改变安卓应用Icon和名称
 * [LBehavior](https://github.com/Lauzy/LBehavior) ⭐ 603 | 🐛 0 | 🌐 Java | 📅 2018-09-17 ★290 - 简单实现标题栏导航栏滑动动画
+* [AppIconNameChanger](https://github.com/myinnos/AppIconNameChanger) ⭐ 602 | 🐛 8 | 🌐 Java | 📅 2022-05-25 ★397 - 动态的改变安卓应用Icon和名称
 * [android-combination-avatar](https://github.com/kongnanlive/android-combination-avatar) ⭐ 565 | 🐛 3 | 🌐 Java | 📅 2017-04-09 ★503 - 模仿QQ讨论组组合头像
 * [ZDepthShadow](https://github.com/ShogoMizumoto/ZDepthShadow) ⭐ 561 | 🐛 7 | 🌐 Java | 📅 2016-10-19 ★487 - MD风格的安卓拉直深入阴影
 * [LayoutSwitch](https://github.com/gjiazhe/LayoutSwitch) ⭐ 550 | 🐛 0 | 🌐 Java | 📅 2017-06-02 ★429 - 列表布局与网格布局的切换
 * [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) ⭐ 538 | 🐛 4 | 🌐 Java | 📅 2017-08-29 ★453 - 使用TextureView轻松实现倒计时
-* [EdgeTranslucent](https://github.com/qinci/EdgeTranslucent) ⭐ 535 | 🐛 0 | 🌐 Java | 📅 2018-01-22 ★278 - 任意View边沿渐变透明
+* [EdgeTranslucent](https://github.com/qinci/EdgeTranslucent) ⭐ 534 | 🐛 0 | 🌐 Java | 📅 2018-01-22 ★278 - 任意View边沿渐变透明
 * [TContributionsView](https://github.com/barryhappy/TContributionsView) ⭐ 508 | 🐛 1 | 🌐 Java | 📅 2016-12-20 ★436 - 显示类似github贡献度的View
 * [CrazyShadow](https://github.com/Hitomis/CrazyShadow) ⭐ 498 | 🐛 9 | 🌐 Java | 📅 2019-01-27 ★226 - 为 View 添加阴影效果
 * [VerificationCodeInput](https://github.com/liuguangli/VerificationCodeInput) ⭐ 495 | 🐛 16 | 🌐 Java | 📅 2019-04-23 ★72 - 简洁验证码输入框
@@ -1577,7 +1577,7 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [VerificationCodeView](https://github.com/Freshman111/VerificationCodeView) ⭐ 386 | 🐛 2 | 🌐 Java | 📅 2017-07-27 ★301 - 动态生成验证码
 * [CompositionAvatar](https://github.com/YiiGuxing/CompositionAvatar) ⭐ 374 | 🐛 0 | 🌐 Java | 📅 2022-01-07 ★221 - 仿QQ讨论组头像
 * [FallingView](https://github.com/DingMouRen/FallingView) ⭐ 370 | 🐛 3 | 🌐 Java | 📅 2019-07-08 ★252 - 实现碎片飘落效果的控件
-* [AndroidShortcuts](https://github.com/pcevikogullari/AndroidShortcuts) ⭐ 333 | 🐛 1 | 🌐 Java | 📅 2017-03-27 ★302 - 快捷方式示例app
+* [AndroidShortcuts](https://github.com/pcevikogullari/AndroidShortcuts) ⭐ 332 | 🐛 1 | 🌐 Java | 📅 2017-03-27 ★302 - 快捷方式示例app
 * [ShoppingCart](https://github.com/ChyengJason/ShoppingCart) ⭐ 327 | 🐛 4 | 🌐 Java | 📅 2019-11-14 ★184 - 仿饿了么购物车效果
 * [WJMagicCurveView](https://github.com/wingjay/WJMagicCurveView) ⭐ 319 | 🐛 1 | 🌐 Java | 📅 2017-06-13 ★307 - 神奇的魔法曲线
 * [ClearScreenHelper](https://github.com/Yellow5A5/ClearScreenHelper) ⭐ 308 | 🐛 1 | 🌐 Java | 📅 2017-02-12 ★250 - 清屏相关的需求
@@ -1588,12 +1588,12 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [FloatView](https://github.com/AlexLiuSheng/FloatView) ⭐ 242 | 🐛 2 | 🌐 Java | 📅 2017-07-07 ★172 - 类似来电秀的效果
 * [ChanelView](https://github.com/developer-shivam/ChanelView) ⭐ 234 | 🐛 2 | 🌐 Java | 📅 2017-11-29 ★202 - 说明手势的简单用例
 * [jellyball](https://github.com/ImmortalZ/jellyball) ⭐ 233 | 🐛 0 | 🌐 Java | 📅 2016-04-12 ★226 - 高仿 path下拉小球
-* [AndroidGpsStatus](https://github.com/hzw1199/AndroidGpsStatus) ⭐ 207 | 🐛 1 | 🌐 Java | 📅 2020-09-04 ★139 - 显示GPS状态和信号强度
+* [AndroidGpsStatus](https://github.com/hzw1199/AndroidGpsStatus) ⭐ 206 | 🐛 1 | 🌐 Java | 📅 2020-09-04 ★139 - 显示GPS状态和信号强度
 * [Android-RadarView](https://github.com/jeanboydev/Android-RadarView) ⭐ 205 | 🐛 0 | 🌐 Java | 📅 2018-03-21 ★64 - 仿支付宝芝麻分解读
 * [WindView](https://github.com/AhmadNemati/WindView) ⭐ 202 | 🐛 3 | 🌐 Java | 📅 2018-08-11 ★135 - 显示天气风速和压力状态
 * [DragFooterView](https://github.com/uin3566/DragFooterView) ⭐ 196 | 🐛 5 | 🌐 Java | 📅 2016-12-17 ★144 - 向左拖拽跳转至更多页面
 * [HoverView](https://github.com/fashare2015/HoverView) ⭐ 193 | 🐛 3 | 🌐 Java | 📅 2018-02-02 ★23 - 仿知乎的底部抽屉
-* [SimpleOneStep](https://github.com/gavinliu/SimpleOneStep) ⭐ 190 | 🐛 0 | 🌐 Java | 📅 2016-12-09 ★190 - 仿OneStep
+* [SimpleOneStep](https://github.com/gavinliu/SimpleOneStep) ⭐ 189 | 🐛 0 | 🌐 Java | 📅 2016-12-09 ★190 - 仿OneStep
 * [FreeView](https://github.com/jcmore2/FreeView) ⭐ 179 | 🐛 0 | 🌐 Java | 📅 2015-09-14 ★181 - 浮动视图
 * [UnifiedContactPicker](https://github.com/quiin/UnifiedContactPicker) ⭐ 173 | 🐛 9 | 🌐 Java | 📅 2019-09-06 ★153 - 统一用户联系人
 * [RuleView](https://github.com/panacena/RuleView) ⭐ 172 | 🐛 1 | 🌐 Java | 📅 2016-12-29 ★47 - 自定义刻度尺控件
@@ -1604,8 +1604,8 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 * [NetMonitor](https://github.com/GHdeng/NetMonitor) ⭐ 120 | 🐛 2 | 🌐 Java | 📅 2024-02-27 ★43 - 使用广播监听网络变化
 * [MagicLine](https://github.com/zhangyuChen1991/MagicLine) ⭐ 113 | 🐛 0 | 🌐 Java | 📅 2017-01-16 ★85 - 简单的规律绘制直线构造神奇的视觉效果
 * [AttributesDispatcher](https://github.com/pavel163/AttributesDispatcher) ⭐ 108 | 🐛 0 | 🌐 Java | 📅 2017-02-09 ★111 - 创建一个自定义视图
-* [PixelSlide](https://github.com/hearsilent/PixelSlide) ⭐ 105 | 🐛 0 | 🌐 Java | 📅 2016-12-29 ★47 - 上下的展开箭头扩展示例
 * [Lamp](https://github.com/stewForAni/Lamp) ⭐ 104 | 🐛 0 | 🌐 Java | 📅 2017-04-29 ★81 - 简单的Android工艺灯控件
+* [PixelSlide](https://github.com/hearsilent/PixelSlide) ⭐ 104 | 🐛 0 | 🌐 Java | 📅 2016-12-29 ★47 - 上下的展开箭头扩展示例
 * [EasyFeedback](https://github.com/webianks/EasyFeedback) ⭐ 103 | 🐛 4 | 🌐 Java | 📅 2019-07-23 ★47 - 收集Android应用程序的反馈
 * [ShelfView](https://github.com/tdscientist/ShelfView) ⭐ 101 | 🐛 0 | 🌐 Java | 📅 2017-09-24 ★59 - 显示书架上的书的自定义视图
 * [FlipperView](https://github.com/JuniperPhoton/FlipperView) ⚠️ Archived ★61 - 使用翻转过渡改变不同状态
@@ -1627,4 +1627,4 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
